@@ -42,9 +42,9 @@ python3 scripts/update_source.py --add --name "新工具" --url "https://..." --
 
 | 类别 | 数量 | 说明 |
 |------|------|------|
-| 开源项目 | 12 | OR-Tools、PyVRP、LangGraph、Milvus、PaddleOCR 等 |
-| 学术论文 | 7 | SupChain-Bench、SC-TGN、Chronos/TimesFM、Pointer Networks 等 |
-| 行业报告/企业资料 | 5 | Gartner MQ、CFLP、Flexport/Project44 等 |
+| 开源项目 | 15 | OR-Tools、PyVRP、LangGraph、Milvus、PaddleOCR 等 |
+| 学术论文 | 9 | SupChain-Bench、SC-TGN、Chronos/TimesFM、Pointer Networks 等 |
+| 行业报告/企业资料 | 7 | Gartner MQ、CFLP、Flexport/Project44 等 |
 | 政策法规 | 2 | EU AI Act、MIT CTL |
 | 生态平台 | 4 | Awesome-Chinese-LLM、JioNLP、HuggingFace 等 |
 
@@ -53,8 +53,8 @@ python3 scripts/update_source.py --add --name "新工具" --url "https://..." --
 | Tier | 含义 | 数量 |
 |------|------|------|
 | 1 | 必读（奠基性/首选工具） | 10 |
-| 2 | 强烈推荐（深度技术参考） | 10 |
-| 3 | 推荐（行业应用/扩展阅读） | 10 |
+| 2 | 强烈推荐（深度技术参考） | 15 |
+| 3 | 推荐（行业应用/扩展阅读） | 25 |
 
 ## 自动化
 

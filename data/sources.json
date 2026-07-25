@@ -445,6 +445,286 @@
       },
       "added_at": "2026-07-25",
       "notes": "MIT CTL MicroMasters"
+    },
+    {
+      "id": "T3-031",
+      "tier": 3,
+      "name": "CFLP 中国物流与采购联合会",
+      "type": "industry_association",
+      "url": "http://www.chinawuliu.com.cn",
+      "category": "industry_association",
+      "description": "中国最高物流行业协会，发布PMI/LPI景气指数",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": "每月发布物流景气指数"
+    },
+    {
+      "id": "T3-032",
+      "tier": 3,
+      "name": "中国物流信息中心",
+      "type": "data_platform",
+      "url": "http://www.clic.org.cn",
+      "category": "data_platform",
+      "description": "PMI/LPI数据发布平台",
+      "freshness_criteria": {
+        "update_age_months": 1
+      },
+      "added_at": "2026-07-25",
+      "notes": "月度PMI数据"
+    },
+    {
+      "id": "T3-033",
+      "tier": 3,
+      "name": "中国物流学会",
+      "type": "academic_organization",
+      "url": "http://csl.chinawuliu.com.cn",
+      "category": "academic",
+      "description": "中国物流学术年会、博士学位论文激励计划",
+      "freshness_criteria": {
+        "update_age_months": 12
+      },
+      "added_at": "2026-07-25",
+      "notes": "年度学术年会"
+    },
+    {
+      "id": "T3-034",
+      "tier": 3,
+      "name": "《供应链管理》期刊",
+      "type": "academic_journal",
+      "url": "https://gylg.cbpt.cnki.net",
+      "category": "academic",
+      "description": "国内首本供应链理论研究学术期刊",
+      "freshness_criteria": {
+        "report_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": "月刊,ISSN 2096-7934"
+    },
+    {
+      "id": "T3-035",
+      "tier": 3,
+      "name": "《中国管理科学》",
+      "type": "academic_journal",
+      "url": "https://www.zgglkx.com/CN/2095-207X/home.shtml",
+      "category": "academic",
+      "description": "中科院主管,含物流与供应链管理研究",
+      "freshness_criteria": {
+        "report_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-036",
+      "tier": 3,
+      "name": "山东省物流与采购协会",
+      "type": "provincial_association",
+      "url": "https://www.sdwl.org.cn",
+      "category": "industry_association",
+      "description": "省级物流协会,A级物流企业评估",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-037",
+      "tier": 3,
+      "name": "广东省物流行业协会",
+      "type": "provincial_association",
+      "url": "http://www.wlhyxh.com",
+      "category": "industry_association",
+      "description": "省级物流协会,大湾区多式联运",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-038",
+      "tier": 3,
+      "name": "四川省现代物流协会",
+      "type": "provincial_association",
+      "url": "https://www.scxd56.net",
+      "category": "industry_association",
+      "description": "省级物流协会,西部陆海新通道",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-039",
+      "tier": 3,
+      "name": "浙江省物流协会",
+      "type": "provincial_association",
+      "url": "https://www.zjwlcg.org",
+      "category": "industry_association",
+      "description": "省级物流协会,2000+会员",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-040",
+      "tier": 3,
+      "name": "江苏现代物流业协会",
+      "type": "provincial_association",
+      "url": "http://www.56home.org",
+      "category": "industry_association",
+      "description": "省级物流协会,A级企业评估",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-041",
+      "tier": 3,
+      "name": "顺丰科技开放平台",
+      "type": "enterprise_api",
+      "url": "https://open.sf-express.com",
+      "category": "enterprise_platform",
+      "description": "顺丰API开放平台,物流供应链一体化",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-042",
+      "tier": 3,
+      "name": "京东物流开放平台",
+      "type": "enterprise_api",
+      "url": "https://open.jdl.com",
+      "category": "enterprise_platform",
+      "description": "京东物流API,快递/快运/云仓",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-043",
+      "tier": 3,
+      "name": "网经社物流科技报告",
+      "type": "industry_report",
+      "url": "https://tidenews.com.cn/tmh_news.html?id=69e5da665944a20001e2ad3b",
+      "category": "industry_report",
+      "description": "2025年度中国物流科技市场数据报告",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
+      "added_at": "2026-07-25",
+      "notes": "含百强榜/独角兽榜"
+    },
+    {
+      "id": "T3-044",
+      "tier": 3,
+      "name": "浙大物流与供应链学术会议",
+      "type": "academic_conference",
+      "url": "https://www.som.zju.edu.cn",
+      "category": "academic",
+      "description": "第21届物流与供应链管理学术会议,主题:大模型时代",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
+      "added_at": "2026-07-25",
+      "notes": "原会议链接403;改用浙大管院首页"
+    },
+    {
+      "id": "T3-045",
+      "tier": 3,
+      "name": "CIFA 中国国际货运代理协会",
+      "type": "industry_association",
+      "url": "http://zizhan.cifa-china.com",
+      "category": "industry_association",
+      "description": "中国国际货代行业组织",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-046",
+      "tier": 2,
+      "name": "FriendliAI 工业检测VLM博客",
+      "type": "technical_blog",
+      "url": "https://friendli.ai/blog/industrial-inspection-with-vision-language-models",
+      "category": "vlm",
+      "description": "VLM用于工业检测,54%组织用AI Agent做质量控制",
+      "freshness_criteria": {
+        "report_age_months": 6
+      },
+      "added_at": "2026-07-25",
+      "notes": "VLM空白参考"
+    },
+    {
+      "id": "T2-047",
+      "tier": 2,
+      "name": "VLM综述论文 (arXiv:2501.02189)",
+      "type": "academic_paper",
+      "url": "https://arxiv.org/abs/2501.02189",
+      "category": "vlm",
+      "description": "VLM Alignment/Benchmark/Evaluations综述",
+      "freshness_criteria": {
+        "citation_count": 10
+      },
+      "added_at": "2026-07-25",
+      "notes": "VLM空白参考"
+    },
+    {
+      "id": "T2-048",
+      "tier": 2,
+      "name": "deepsense-ai Agent仿真基准",
+      "type": "open_source_project",
+      "url": "https://github.com/deepsense-ai/agent-based-simulation-benchmark",
+      "category": "agent_benchmark",
+      "description": "LLM Agent仿真基准,可迁移到物流场景",
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
+      "added_at": "2026-07-25",
+      "notes": "Agent空白参考"
+    },
+    {
+      "id": "T2-049",
+      "tier": 2,
+      "name": "awesome-instruction-datasets",
+      "type": "open_source_project",
+      "url": "https://github.com/jianzhnie/awesome-instruction-datasets",
+      "category": "sft",
+      "description": "最全SFT数据集汇总,含中文COIG-CQIA等,但无物流",
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
+      "added_at": "2026-07-25",
+      "notes": "中文SFT空白参考"
+    },
+    {
+      "id": "T2-050",
+      "tier": 2,
+      "name": "LLaMA Factory",
+      "type": "open_source_project",
+      "url": "https://llamafactory.readthedocs.io",
+      "category": "sft",
+      "description": "中文大模型微调框架,支持Alpaca/ShareGPT/多模态",
+      "freshness_criteria": {
+        "last_commit_days": 30
+      },
+      "added_at": "2026-07-25",
+      "notes": "SFT工具链"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-07-25 14:11 UTC
-> 总信息源: 30 | ✅ 可达: 30 | ❌ 不可达: 0
+> 生成时间: 2026-07-25 15:14 UTC
+> 总信息源: 50 | ✅ 可达: 48 | ❌ 不可达: 2
 
 ## Tier 1 — 必读（10 条）
 
@@ -9,31 +9,36 @@
 |---|------|------|------|------|----------|
 | T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13813 | 推送: 2026-07-23  |
 | T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 670 | 推送: 2026-07-24  |
-| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38107 | 推送: 2026-07-25  |
+| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38114 | 推送: 2026-07-25  |
 | T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ✅ | 200 |  |
 | T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ✅ | 200 |  |
 | T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ✅ | 200 | 论文存在 |
-| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86231 | 推送: 2026-07-22  |
+| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86235 | 推送: 2026-07-22  |
 | T1-008 | SupChain-Bench | academic_paper | ✅ | 200 | 论文存在 |
 | T1-009 | Sakana AI CoffeeBench | research_benchmark | ✅ | 200 |  |
 | T1-010 | Darts / GluonTS | open_source_project | ✅ | 200 | ⭐ 9475 | 推送: 2026-07-21  |
 
-## Tier 2 — 强烈推荐（10 条）
+## Tier 2 — 强烈推荐（15 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
 | T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45376 | 推送: 2026-07-25  |
 | T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2179 | 推送: 2026-07-25  |
 | T2-013 | SUMO / MATSim | open_source_project | ✅ | 200 | ⭐ 4107 | 推送: 2026-07-23  |
-| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51082 | 推送: 2026-07-25  |
-| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27204 | 推送: 2026-07-25  |
+| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51084 | 推送: 2026-07-25  |
+| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27205 | 推送: 2026-07-25  |
 | T2-016 | Kool et al. 'Attention, Learn  | academic_paper | ✅ | 200 | 论文存在 |
 | T2-017 | Vinyals et al. 'Pointer Networ | academic_paper | ✅ | 200 | 论文存在 |
 | T2-018 | 'Neural Combinatorial Optimiza | academic_paper | ✅ | 200 | 论文存在 |
 | T2-019 | Chronos / TimesFM / Moirai 论文 | academic_paper | ✅ | 200 | 论文存在 |
 | T2-020 | Stanford — Learning Production | academic_paper | ✅ | 200 | 论文存在 |
+| T2-046 | FriendliAI 工业检测VLM博客 | technical_blog | ✅ | 200 |  |
+| T2-047 | VLM综述论文 (arXiv:2501.02189) | academic_paper | ✅ | 200 | 论文存在 |
+| T2-048 | deepsense-ai Agent仿真基准 | open_source_project | ✅ | 200 | ⭐ 10 | 推送: 2026-04-29  |
+| T2-049 | awesome-instruction-datasets | open_source_project | ✅ | 200 | ⭐ 738 | 推送: 2026-06-17  |
+| T2-050 | LLaMA Factory | open_source_project | ✅ | 200 |  |
 
-## Tier 3 — 推荐（10 条）
+## Tier 3 — 推荐（25 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
@@ -47,6 +52,28 @@
 | T3-028 | HuggingFace Hub 数据集上传指南 | official_documentation | ✅ | 200 |  |
 | T3-029 | EU AI Act 物流 AI 合规解读 | policy_interpretation | ✅ | 200 |  |
 | T3-030 | MIT Center for Transportation  | academic | ✅ | 200 |  |
+| T3-031 | CFLP 中国物流与采购联合会 | industry_association | ✅ | 200 |  |
+| T3-032 | 中国物流信息中心 | data_platform | ✅ | 200 |  |
+| T3-033 | 中国物流学会 | academic_organization | ✅ | 200 |  |
+| T3-034 | 《供应链管理》期刊 | academic_journal | ✅ | 200 |  |
+| T3-035 | 《中国管理科学》 | academic_journal | ❌ | 403 |  |
+| T3-036 | 山东省物流与采购协会 | provincial_association | ✅ | 200 |  |
+| T3-037 | 广东省物流行业协会 | provincial_association | ✅ | 200 |  |
+| T3-038 | 四川省现代物流协会 | provincial_association | ✅ | 200 |  |
+| T3-039 | 浙江省物流协会 | provincial_association | ✅ | 200 |  |
+| T3-040 | 江苏现代物流业协会 | provincial_association | ✅ | 200 |  |
+| T3-041 | 顺丰科技开放平台 | enterprise_api | ✅ | 200 |  |
+| T3-042 | 京东物流开放平台 | enterprise_api | ✅ | 200 |  |
+| T3-043 | 网经社物流科技报告 | industry_report | ✅ | 200 |  |
+| T3-044 | 浙大物流与供应链学术会议 | academic_conference | ❌ | 0 |  |
+| T3-045 | CIFA 中国国际货运代理协会 | industry_association | ✅ | 200 |  |
+
+## ❌ 不可达信息源
+
+- **T3-035 《中国管理科学》** — HTTP Error 403: Forbidden
+  - URL: https://www.zgglkx.com/CN/2095-207X/home.shtml
+- **T3-044 浙大物流与供应链学术会议** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://www.som.zju.edu.cn
 
 ## 🔄 需要关注更新
 
@@ -60,6 +87,8 @@
 - **T2-019 Chronos / TimesFM / Moirai 论文** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-020 Stanford — Learning Production Functions for Supply Chains with GNNs (AAAI 2025)** — 类型: academic_paper，建议检查是否有新版发布
 - **T3-021 菜鸟 / 京东 / 顺丰物流大模型公开介绍** — 类型: enterprise_release，建议检查是否有新版发布
+- **T3-043 网经社物流科技报告** — 类型: industry_report，建议检查是否有新版发布
+- **T2-047 VLM综述论文 (arXiv:2501.02189)** — 类型: academic_paper，建议检查是否有新版发布
 
 ---
 *本报告由 `check_freshness.py` + `generate_report.py` 自动生成*
