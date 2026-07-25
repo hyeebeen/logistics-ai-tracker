@@ -1,0 +1,63 @@
+name: Logistics AI Source Freshness Check
+
+on:
+  schedule:
+    # 每周一 09:00 UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run freshness check
+        run: python3 scripts/check_freshness.py
+
+      - name: Generate report
+        run: python3 scripts/generate_report.py
+
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/freshness_report.json reports/freshness_report.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: weekly freshness check $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Create issue for unreachable sources
+        run: |
+          UNREACHABLE=$(python3 -c "
+          import json
+          with open('reports/freshness_report.json') as f:
+            data = json.load(f)
+          unreachable = [r for r in data['results'] if not r.get('reachable')]
+          if unreachable:
+            lines = ['以下信息源不可达，需要人工检查：', '']
+            for r in unreachable:
+              lines.append(f\"- **{r['id']} {r['name']}** — {r.get('error', 'Unknown')}\")
+              lines.append(f\"  - URL: {r['url']}\")
+            print('\n'.join(lines))
+          ")
+          if [ -n "$UNREACHABLE" ]; then
+            gh issue create \
+              --title "⚠️ 信息源新鲜度检测异常 (${{ github.run_date }})" \
+              --body "$UNREACHABLE" \
+              --label "freshness-alert"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
