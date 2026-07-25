@@ -1,7 +1,7 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-07-25 14:07 UTC
-> 总信息源: 30 | ✅ 可达: 29 | ❌ 不可达: 1
+> 生成时间: 2026-07-25 14:11 UTC
+> 总信息源: 30 | ✅ 可达: 30 | ❌ 不可达: 0
 
 ## Tier 1 — 必读（10 条）
 
@@ -10,7 +10,7 @@
 | T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13813 | 推送: 2026-07-23  |
 | T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 670 | 推送: 2026-07-24  |
 | T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38107 | 推送: 2026-07-25  |
-| T1-004 | Gartner Peer Insights — Supply | industry_report | ❌ | 403 |  |
+| T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ✅ | 200 |  |
 | T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ✅ | 200 |  |
 | T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ✅ | 200 | 论文存在 |
 | T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86231 | 推送: 2026-07-22  |
@@ -48,15 +48,11 @@
 | T3-029 | EU AI Act 物流 AI 合规解读 | policy_interpretation | ✅ | 200 |  |
 | T3-030 | MIT Center for Transportation  | academic | ✅ | 200 |  |
 
-## ❌ 不可达信息源
-
-- **T1-004 Gartner Peer Insights — Supply Chain Planning/WMS/TMS/Visibility** — HTTP Error 403: Forbidden
-  - URL: https://www.gartner.com/peer-insights/home
-
 ## 🔄 需要关注更新
 
 以下信息源可达，建议人工检查是否有新版本/新发布：
 
+- **T1-004 Gartner Magic Quadrant & Supply Chain Top 25（Wikipedia）** — 类型: industry_report，建议检查是否有新版发布
 - **T1-008 SupChain-Bench** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-016 Kool et al. 'Attention, Learn to Solve Routing Problems' (ICLR 2019)** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-017 Vinyals et al. 'Pointer Networks'** — 类型: academic_paper，建议检查是否有新版发布

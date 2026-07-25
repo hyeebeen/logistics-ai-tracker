@@ -9,7 +9,7 @@
       "2": "强烈推荐（深度技术参考）",
       "3": "推荐（行业应用/扩展阅读）"
     },
-    "last_updated": "2026-07-25T14:06:15Z",
+    "last_updated": "2026-07-25T14:10:29Z",
     "last_verified_by": "manual-fix-3-urls"
   },
   "sources": [
@@ -61,16 +61,16 @@
     {
       "id": "T1-004",
       "tier": 1,
-      "name": "Gartner Peer Insights — Supply Chain Planning/WMS/TMS/Visibility",
+      "name": "Gartner Magic Quadrant & Supply Chain Top 25（Wikipedia）",
       "type": "industry_report",
-      "url": "https://www.gartner.com/peer-insights/home",
+      "url": "https://en.wikipedia.org/wiki/Gartner",
       "category": "platform_selection",
-      "description": "Gartner 2026 MQ 全文需付费订阅；Peer Insights 为公开免费替代入口，覆盖 SCP/WMS/TMS/RTTVP 供应商评估。2026 SCP Leaders: Blue Yonder(19yr), Kinaxis(12yr), o9(5yr)",
+      "description": "Gartner MQ 全文需付费订阅。Wikipedia 提供 Magic Quadrant 方法论、历史及 Top 25 榜单概览。2026 SCP Leaders: Blue Yonder(19yr), Kinaxis(12yr), o9(5yr)",
       "freshness_criteria": {
         "report_age_months": 12
       },
       "added_at": "2026-07-25",
-      "notes": "原 MQ 链接 403 付费墙，改为 Peer Insights 公开页。Gartner Supply Chain Top 25 见 Instagram @gartner_inc",
+      "notes": "Gartner 所有内容均需付费/license 访问，以 Wikipedia 作为公开入口。Supply Chain Top 25 2026: Schneider Electric, NVIDIA, Walmart, Cisco, Lenovo/AstraZeneca",
       "verified_at": "2026-07-25"
     },
     {
