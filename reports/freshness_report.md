@@ -1,6 +1,6 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-07-25 15:14 UTC
+> 生成时间: 2026-07-25 15:17 UTC
 > 总信息源: 50 | ✅ 可达: 48 | ❌ 不可达: 2
 
 ## Tier 1 — 必读（10 条）
@@ -65,15 +65,15 @@
 | T3-041 | 顺丰科技开放平台 | enterprise_api | ✅ | 200 |  |
 | T3-042 | 京东物流开放平台 | enterprise_api | ✅ | 200 |  |
 | T3-043 | 网经社物流科技报告 | industry_report | ✅ | 200 |  |
-| T3-044 | 浙大物流与供应链学术会议 | academic_conference | ❌ | 0 |  |
+| T3-044 | 浙大物流与供应链学术会议 | academic_conference | ❌ | 403 |  |
 | T3-045 | CIFA 中国国际货运代理协会 | industry_association | ✅ | 200 |  |
 
 ## ❌ 不可达信息源
 
 - **T3-035 《中国管理科学》** — HTTP Error 403: Forbidden
-  - URL: https://www.zgglkx.com/CN/2095-207X/home.shtml
-- **T3-044 浙大物流与供应链学术会议** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
-  - URL: https://www.som.zju.edu.cn
+  - URL: https://www.zgglkx.com
+- **T3-044 浙大物流与供应链学术会议** — HTTP Error 403: Forbidden
+  - URL: http://www.som.zju.edu.cn/2025/0925/c63484a3085773/page.htm
 
 ## 🔄 需要关注更新
 

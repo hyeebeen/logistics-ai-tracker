@@ -507,14 +507,14 @@
       "tier": 3,
       "name": "《中国管理科学》",
       "type": "academic_journal",
-      "url": "https://www.zgglkx.com/CN/2095-207X/home.shtml",
+      "url": "https://www.zgglkx.com",
       "category": "academic",
       "description": "中科院主管,含物流与供应链管理研究",
       "freshness_criteria": {
         "report_age_months": 3
       },
       "added_at": "2026-07-25",
-      "notes": ""
+      "notes": "期刊官网有反爬(403)，URL有效但需浏览器访问"
     },
     {
       "id": "T3-036",
@@ -633,14 +633,14 @@
       "tier": 3,
       "name": "浙大物流与供应链学术会议",
       "type": "academic_conference",
-      "url": "https://www.som.zju.edu.cn",
+      "url": "http://www.som.zju.edu.cn/2025/0925/c63484a3085773/page.htm",
       "category": "academic",
       "description": "第21届物流与供应链管理学术会议,主题:大模型时代",
       "freshness_criteria": {
         "report_age_months": 12
       },
       "added_at": "2026-07-25",
-      "notes": "原会议链接403;改用浙大管院首页"
+      "notes": "会议页有反爬(403)，URL有效但需浏览器访问"
     },
     {
       "id": "T3-045",
