@@ -725,6 +725,265 @@
       },
       "added_at": "2026-07-25",
       "notes": "SFT工具链"
+    },
+    {
+      "id": "T2-051",
+      "tier": 2,
+      "name": "Transportation Research Part E: Logistics",
+      "type": "academic_journal",
+      "url": "https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review",
+      "category": "academic",
+      "description": "物流交通顶级期刊, IF 9.3, CiteScore 14.0, Elsevier",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-052",
+      "tier": 2,
+      "name": "INFORMS M&SOM",
+      "type": "academic_journal",
+      "url": "https://pubsonline.informs.org/toc/msom/current",
+      "category": "academic",
+      "description": "Manufacturing & Service Operations Management, 运筹管理顶刊, Supply Chain in AI Era 2026",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-053",
+      "tier": 2,
+      "name": "IEEE T-ITS",
+      "type": "academic_journal",
+      "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979",
+      "category": "academic",
+      "description": "IEEE Transactions on Intelligent Transportation Systems, IF 9.1 Q1",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-054",
+      "tier": 2,
+      "name": "EJOR European J Operational Research",
+      "type": "academic_journal",
+      "url": "https://www.sciencedirect.com/journal/european-journal-of-operational-research",
+      "category": "academic",
+      "description": "欧洲运筹学旗舰期刊, IF 7.0, CiteScore 14.0",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-055",
+      "tier": 2,
+      "name": "EURO Association of European OR Societies",
+      "type": "academic",
+      "url": "https://www.euro-online.org/web/pages/1/home",
+      "category": "academic",
+      "description": "欧洲运筹学会联盟, EJOR/EJTL/EJCO出版方",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-056",
+      "tier": 3,
+      "name": "中国快递协会 CEA",
+      "type": "industry_association",
+      "url": "http://cea.org.cn",
+      "category": "industry_association",
+      "description": "中国快递行业官方协会, 发布快递发展指数",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-057",
+      "tier": 3,
+      "name": "国家邮政局 快递发展指数",
+      "type": "government",
+      "url": "https://www.spb.gov.cn/gjyzj/c100278/common_list.shtml",
+      "category": "data_platform",
+      "description": "中国快递月度发展指数官方发布平台",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-058",
+      "tier": 3,
+      "name": "中国仓储与配送协会 CAWD",
+      "type": "industry_association",
+      "url": "http://www.cawd.org.cn",
+      "category": "industry_association",
+      "description": "全国仓储配送行业组织, 发布仓储指数",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-059",
+      "tier": 3,
+      "name": "中国集装箱行业协会",
+      "type": "industry_association",
+      "url": "https://www.chinaccia.com",
+      "category": "industry_association",
+      "description": "发布《中国集装箱供应链发展报告(2025-2026)》",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T3-060",
+      "tier": 3,
+      "name": "CIFA 中国国际货运代理协会",
+      "type": "industry_association",
+      "url": "http://zizhan.cifa-china.com",
+      "category": "industry_association",
+      "description": "中国国际货代物流企业展洽会, 信用评价",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-061",
+      "tier": 2,
+      "name": "Pyomo",
+      "type": "open_source_project",
+      "url": "https://github.com/Pyomo/pyomo",
+      "category": "optimization",
+      "description": "Python代数建模语言, Sandia实验室出品, BSD License",
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-062",
+      "tier": 2,
+      "name": "HiGHS",
+      "type": "open_source_project",
+      "url": "https://github.com/ERGO-Code/HiGHS",
+      "category": "optimization",
+      "description": "高性能线性/整数规划求解器, MIT License",
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-063",
+      "tier": 2,
+      "name": "Timefold Solver",
+      "type": "open_source_project",
+      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "category": "optimization",
+      "description": "原OptaPlanner核心团队, Java约束优化求解器",
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-064",
+      "tier": 2,
+      "name": "SCIP Optimization Suite",
+      "type": "open_source_project",
+      "url": "https://www.scipopt.org/",
+      "category": "optimization",
+      "description": "开源MIP求解器, ZIB出品",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-065",
+      "tier": 2,
+      "name": "Microsoft MARO",
+      "type": "open_source_project",
+      "url": "https://github.com/microsoft/maro",
+      "category": "simulation",
+      "description": "多智能体资源优化RL平台, RL-as-a-Service",
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-066",
+      "tier": 2,
+      "name": "OR-Gym",
+      "type": "open_source_project",
+      "url": "https://github.com/hubbs5/or-gym",
+      "category": "simulation",
+      "description": "OR与RL研究环境, 供应链/VRP/TSP",
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-067",
+      "tier": 2,
+      "name": "salabim 离散事件仿真",
+      "type": "open_source_project",
+      "url": "https://github.com/salabim/salabim",
+      "category": "simulation",
+      "description": "Python离散事件仿真库",
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-068",
+      "tier": 2,
+      "name": "openWMS 开源WMS",
+      "type": "open_source_project",
+      "url": "https://github.com/openwms/org.openwms",
+      "category": "simulation",
+      "description": "开源仓库管理系统, Spring Boot, 云原生",
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-069",
+      "tier": 2,
+      "name": "LLMs for Supply Chain Management (arXiv:2505.18597)",
+      "type": "academic_paper",
+      "url": "https://arxiv.org/abs/2505.18597",
+      "category": "academic",
+      "description": "H Wang 2025, 11引用, LLM驱动的供应链管理",
+      "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-070",
+      "tier": 2,
+      "name": "LNN+XGBoost 供应链牛鞭效应 (arXiv)",
+      "type": "academic_paper",
+      "url": "https://arxiv.org/abs/2507.21383",
+      "category": "academic",
+      "description": "Liquid Neural Networks + XGBoost优化多级供应链",
+      "added_at": "2026-07-25",
+      "notes": ""
     }
   ]
 }
