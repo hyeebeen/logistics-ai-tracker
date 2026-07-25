@@ -1,0 +1,521 @@
+{
+  "generated_at": "2026-07-25T14:07:11.972451+00:00",
+  "total_sources": 30,
+  "reachable": 29,
+  "unreachable": 1,
+  "results": [
+    {
+      "id": "T1-001",
+      "name": "Google OR-Tools",
+      "tier": 1,
+      "url": "https://github.com/google/or-tools",
+      "type": "open_source_project",
+      "category": "optimization",
+      "checked_at": "2026-07-25T14:06:15.626196+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 13813,
+        "forks": 2446,
+        "open_issues": 111,
+        "pushed_at": "2026-07-23T16:32:47Z",
+        "updated_at": "2026-07-25T12:34:25Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T1-002",
+      "name": "PyVRP",
+      "tier": 1,
+      "url": "https://github.com/PyVRP/PyVRP",
+      "type": "open_source_project",
+      "category": "optimization",
+      "checked_at": "2026-07-25T14:06:18.009690+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 670,
+        "forks": 153,
+        "open_issues": 44,
+        "pushed_at": "2026-07-24T15:29:36Z",
+        "updated_at": "2026-07-23T01:17:26Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T1-003",
+      "name": "LangGraph 1.0 + MCP",
+      "tier": 1,
+      "url": "https://github.com/langchain-ai/langgraph",
+      "type": "open_source_project",
+      "category": "agent_orchestration",
+      "checked_at": "2026-07-25T14:06:20.448916+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 38107,
+        "forks": 6399,
+        "open_issues": 643,
+        "pushed_at": "2026-07-25T08:00:35Z",
+        "updated_at": "2026-07-25T13:46:46Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T1-004",
+      "name": "Gartner Peer Insights — Supply Chain Planning/WMS/TMS/Visibility",
+      "tier": 1,
+      "url": "https://www.gartner.com/peer-insights/home",
+      "type": "industry_report",
+      "category": "platform_selection",
+      "checked_at": "2026-07-25T14:06:22.781108+00:00",
+      "reachable": false,
+      "status_code": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "T1-005",
+      "name": "NVIDIA Isaac Sim / Omniverse",
+      "tier": 1,
+      "url": "https://developer.nvidia.com/isaac/sim",
+      "type": "commercial_platform",
+      "category": "simulation",
+      "checked_at": "2026-07-25T14:06:23.662765+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "T1-006",
+      "name": "Qwen3 / DeepSeek-V3 技术报告",
+      "tier": 1,
+      "url": "https://arxiv.org/abs/2505.09388",
+      "type": "model_report",
+      "category": "base_model",
+      "checked_at": "2026-07-25T14:06:24.575007+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Mon, 02 Mar 2026 02:26:22 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T1-007",
+      "name": "PaddleOCR",
+      "tier": 1,
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "type": "open_source_project",
+      "category": "document_ai",
+      "checked_at": "2026-07-25T14:06:26.267176+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 86231,
+        "forks": 11084,
+        "open_issues": 217,
+        "pushed_at": "2026-07-22T11:59:34Z",
+        "updated_at": "2026-07-25T14:00:36Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T1-008",
+      "name": "SupChain-Bench",
+      "tier": 1,
+      "url": "https://arxiv.org/abs/2602.07342",
+      "type": "academic_paper",
+      "category": "benchmark",
+      "checked_at": "2026-07-25T14:06:28.787567+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Thu, 14 May 2026 01:14:38 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T1-009",
+      "name": "Sakana AI CoffeeBench",
+      "tier": 1,
+      "url": "https://sakana.ai",
+      "type": "research_benchmark",
+      "category": "benchmark",
+      "checked_at": "2026-07-25T14:06:30.338051+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Sat, 25 Jul 2026 08:50:15 GMT",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "T1-010",
+      "name": "Darts / GluonTS",
+      "tier": 1,
+      "url": "https://github.com/unit8co/darts",
+      "type": "open_source_project",
+      "category": "time_series",
+      "checked_at": "2026-07-25T14:06:31.047722+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 9475,
+        "forks": 1016,
+        "open_issues": 215,
+        "pushed_at": "2026-07-21T14:47:07Z",
+        "updated_at": "2026-07-25T11:57:42Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-011",
+      "name": "Milvus / Qdrant",
+      "tier": 2,
+      "url": "https://github.com/milvus-io/milvus",
+      "type": "open_source_project",
+      "category": "vector_database",
+      "checked_at": "2026-07-25T14:06:33.497863+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 45376,
+        "forks": 4137,
+        "open_issues": 1148,
+        "pushed_at": "2026-07-25T08:14:55Z",
+        "updated_at": "2026-07-25T13:30:23Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-012",
+      "name": "PostGIS / GeoPandas / H3",
+      "tier": 2,
+      "url": "https://github.com/postgis/postgis",
+      "type": "open_source_project",
+      "category": "geospatial",
+      "checked_at": "2026-07-25T14:06:36.033566+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 2179,
+        "forks": 429,
+        "open_issues": 76,
+        "pushed_at": "2026-07-25T13:04:11Z",
+        "updated_at": "2026-07-25T13:04:27Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-013",
+      "name": "SUMO / MATSim",
+      "tier": 2,
+      "url": "https://github.com/eclipse/sumo",
+      "type": "open_source_project",
+      "category": "simulation",
+      "checked_at": "2026-07-25T14:06:38.916819+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 4107,
+        "forks": 1751,
+        "open_issues": 2983,
+        "pushed_at": "2026-07-23T18:18:15Z",
+        "updated_at": "2026-07-23T22:12:29Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-014",
+      "name": "LlamaIndex / Unstract / MinerU",
+      "tier": 2,
+      "url": "https://github.com/run-llama/llama_index",
+      "type": "open_source_project",
+      "category": "document_ai",
+      "checked_at": "2026-07-25T14:06:43.421426+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 51082,
+        "forks": 7809,
+        "open_issues": 577,
+        "pushed_at": "2026-07-25T02:17:52Z",
+        "updated_at": "2026-07-25T13:57:11Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-015",
+      "name": "MLflow / Langfuse / DeepEval",
+      "tier": 2,
+      "url": "https://github.com/mlflow/mlflow",
+      "type": "open_source_project",
+      "category": "mlops",
+      "checked_at": "2026-07-25T14:06:45.747375+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 27204,
+        "forks": 6053,
+        "open_issues": 2085,
+        "pushed_at": "2026-07-25T09:26:12Z",
+        "updated_at": "2026-07-25T11:42:18Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T2-016",
+      "name": "Kool et al. 'Attention, Learn to Solve Routing Problems' (ICLR 2019)",
+      "tier": 2,
+      "url": "https://arxiv.org/abs/1803.08475",
+      "type": "academic_paper",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:06:48.266397+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Fri, 08 Feb 2019 01:08:37 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T2-017",
+      "name": "Vinyals et al. 'Pointer Networks'",
+      "tier": 2,
+      "url": "https://arxiv.org/abs/1506.03134",
+      "type": "academic_paper",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:06:49.723410+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Tue, 03 Jan 2017 01:06:33 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T2-018",
+      "name": "'Neural Combinatorial Optimization with RL' (ICLR 2017)",
+      "tier": 2,
+      "url": "https://arxiv.org/abs/1611.09940",
+      "type": "academic_paper",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:06:51.348156+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Mon, 16 Jan 2017 01:02:29 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T2-019",
+      "name": "Chronos / TimesFM / Moirai 论文",
+      "tier": 2,
+      "url": "https://arxiv.org/abs/2403.07815",
+      "type": "academic_paper",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:06:52.881347+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Tue, 05 Nov 2024 02:53:58 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T2-020",
+      "name": "Stanford — Learning Production Functions for Supply Chains with GNNs (AAAI 2025)",
+      "tier": 2,
+      "url": "https://arxiv.org/abs/2407.18772",
+      "type": "academic_paper",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:06:54.423047+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Wed, 26 Feb 2025 01:12:07 GMT",
+      "content_type": "text/html; charset=utf-8",
+      "arxiv": {
+        "exists": true,
+        "status_code": 200
+      }
+    },
+    {
+      "id": "T3-021",
+      "name": "菜鸟 / 京东 / 顺丰物流大模型公开介绍",
+      "tier": 3,
+      "url": "https://www.cainiao.com",
+      "type": "enterprise_release",
+      "category": "industry",
+      "checked_at": "2026-07-25T14:06:55.993251+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "T3-022",
+      "name": "物流沙龙 / 运联网 / 亿欧物流行业报道",
+      "tier": 3,
+      "url": "https://www.logclub.com",
+      "type": "industry_media",
+      "category": "industry",
+      "checked_at": "2026-07-25T14:06:56.118121+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html;charset=UTF-8"
+    },
+    {
+      "id": "T3-023",
+      "name": "CFLP（中国物流与采购联合会）报告",
+      "tier": 3,
+      "url": "https://www.cflp.org.cn",
+      "type": "industry_association",
+      "category": "policy",
+      "checked_at": "2026-07-25T14:06:56.478350+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html"
+    },
+    {
+      "id": "T3-024",
+      "name": "Project44 Blog — Movement 平台 & Decision Intelligence",
+      "tier": 3,
+      "url": "https://www.project44.com/blog/project44-announces-2026-preferred-carriers",
+      "type": "enterprise_blog",
+      "category": "industry",
+      "checked_at": "2026-07-25T14:06:57.871505+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "id": "T3-025",
+      "name": "Locus Robotics / Covariant / Symbotic 官方资料",
+      "tier": 3,
+      "url": "https://www.locusrobotics.com",
+      "type": "enterprise_resource",
+      "category": "industry",
+      "checked_at": "2026-07-25T14:07:00.722996+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Mon, 18 May 2026 21:14:33 GMT",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "id": "T3-026",
+      "name": "Awesome-Chinese-LLM GitHub 仓库",
+      "tier": 3,
+      "url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM",
+      "type": "open_source_project",
+      "category": "ecosystem",
+      "checked_at": "2026-07-25T14:07:01.743328+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 22696,
+        "forks": 2135,
+        "open_issues": 25,
+        "pushed_at": "2026-05-10T05:03:06Z",
+        "updated_at": "2026-07-24T17:13:50Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T3-027",
+      "name": "JioNLP / APLT 中文地址解析项目",
+      "tier": 3,
+      "url": "https://github.com/dongrixinyu/JioNLP",
+      "type": "open_source_project",
+      "category": "nlp",
+      "checked_at": "2026-07-25T14:07:06.351344+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8",
+      "github": {
+        "stars": 3854,
+        "forks": 443,
+        "open_issues": 42,
+        "pushed_at": "2026-06-05T06:50:37Z",
+        "updated_at": "2026-07-25T02:50:59Z",
+        "archived": false
+      }
+    },
+    {
+      "id": "T3-028",
+      "name": "HuggingFace Hub 数据集上传指南",
+      "tier": 3,
+      "url": "https://huggingface.co/docs/hub/datasets-upload-guide-llm",
+      "type": "official_documentation",
+      "category": "ecosystem",
+      "checked_at": "2026-07-25T14:07:08.698808+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "id": "T3-029",
+      "name": "EU AI Act 物流 AI 合规解读",
+      "tier": 3,
+      "url": "https://artificialintelligenceact.eu",
+      "type": "policy_interpretation",
+      "category": "compliance",
+      "checked_at": "2026-07-25T14:07:09.873878+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "id": "T3-030",
+      "name": "MIT Center for Transportation & Logistics 课程/论文",
+      "tier": 3,
+      "url": "https://ctl.mit.edu",
+      "type": "academic",
+      "category": "academic",
+      "checked_at": "2026-07-25T14:07:10.884258+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ]
+}

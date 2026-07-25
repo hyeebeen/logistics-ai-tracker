@@ -8,7 +8,9 @@
       "1": "必读（奠基性/首选工具）",
       "2": "强烈推荐（深度技术参考）",
       "3": "推荐（行业应用/扩展阅读）"
-    }
+    },
+    "last_updated": "2026-07-25T14:06:15Z",
+    "last_verified_by": "manual-fix-3-urls"
   },
   "sources": [
     {
@@ -19,7 +21,10 @@
       "url": "https://github.com/google/or-tools",
       "category": "optimization",
       "description": "开源组合优化/VRP/CP-SAT 求解器，13,808 ⭐",
-      "freshness_criteria": { "last_commit_days": 90, "releases_per_year": 4 },
+      "freshness_criteria": {
+        "last_commit_days": 90,
+        "releases_per_year": 4
+      },
       "added_at": "2026-07-25",
       "notes": "运筹优化首选，持续活跃"
     },
@@ -31,7 +36,10 @@
       "url": "https://github.com/PyVRP/PyVRP",
       "category": "optimization",
       "description": "SOTA VRP 求解器（HGS 算法），670 ⭐",
-      "freshness_criteria": { "last_commit_days": 90, "releases_per_year": 2 },
+      "freshness_criteria": {
+        "last_commit_days": 90,
+        "releases_per_year": 2
+      },
       "added_at": "2026-07-25",
       "notes": "车辆路由问题求解器"
     },
@@ -43,21 +51,27 @@
       "url": "https://github.com/langchain-ai/langgraph",
       "category": "agent_orchestration",
       "description": "多 Agent 工作流编排，MCP 原生支持",
-      "freshness_criteria": { "last_commit_days": 30, "releases_per_year": 12 },
+      "freshness_criteria": {
+        "last_commit_days": 30,
+        "releases_per_year": 12
+      },
       "added_at": "2026-07-25",
       "notes": "Agent 编排首选，LangChain 生态"
     },
     {
       "id": "T1-004",
       "tier": 1,
-      "name": "Gartner 2026 Magic Quadrant — Supply Chain Planning",
+      "name": "Gartner Peer Insights — Supply Chain Planning/WMS/TMS/Visibility",
       "type": "industry_report",
-      "url": "https://www.gartner.com/en/documents/5994500",
+      "url": "https://www.gartner.com/peer-insights/home",
       "category": "platform_selection",
-      "description": "供应链计划平台选型标杆（Blue Yonder/Kinaxis/o9）",
-      "freshness_criteria": { "report_age_months": 12 },
+      "description": "Gartner 2026 MQ 全文需付费订阅；Peer Insights 为公开免费替代入口，覆盖 SCP/WMS/TMS/RTTVP 供应商评估。2026 SCP Leaders: Blue Yonder(19yr), Kinaxis(12yr), o9(5yr)",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
       "added_at": "2026-07-25",
-      "notes": "商业平台选型必读，年度更新"
+      "notes": "原 MQ 链接 403 付费墙，改为 Peer Insights 公开页。Gartner Supply Chain Top 25 见 Instagram @gartner_inc",
+      "verified_at": "2026-07-25"
     },
     {
       "id": "T1-005",
@@ -67,7 +81,9 @@
       "url": "https://developer.nvidia.com/isaac/sim",
       "category": "simulation",
       "description": "仓库机器人/视觉感知仿真，VLM 合成数据生成",
-      "freshness_criteria": { "last_release_months": 6 },
+      "freshness_criteria": {
+        "last_release_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "物流仿真首选，免费教育版"
     },
@@ -79,7 +95,9 @@
       "url": "https://arxiv.org/abs/2505.09388",
       "category": "base_model",
       "description": "中文基座模型选型，VLM/SFT 基础",
-      "freshness_criteria": { "report_age_months": 6 },
+      "freshness_criteria": {
+        "report_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "中文强、开源、可私有化"
     },
@@ -91,7 +109,10 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "category": "document_ai",
       "description": "中文物流 OCR 事实标准，PP-OCRv4",
-      "freshness_criteria": { "last_commit_days": 60, "releases_per_year": 4 },
+      "freshness_criteria": {
+        "last_commit_days": 60,
+        "releases_per_year": 4
+      },
       "added_at": "2026-07-25",
       "notes": "运单/条码/标签识别"
     },
@@ -103,7 +124,9 @@
       "url": "https://arxiv.org/abs/2602.07342",
       "category": "benchmark",
       "description": "首个供应链大语言模型基准（⚠️ 待核实）",
-      "freshness_criteria": { "paper_age_months": 12 },
+      "freshness_criteria": {
+        "paper_age_months": 12
+      },
       "added_at": "2026-07-25",
       "notes": "arXiv:2602.07342，需验证"
     },
@@ -115,7 +138,9 @@
       "url": "https://sakana.ai",
       "category": "benchmark",
       "description": "90 天供应链多智能体仿真基准（⚠️ 待核实）",
-      "freshness_criteria": { "last_update_months": 12 },
+      "freshness_criteria": {
+        "last_update_months": 12
+      },
       "added_at": "2026-07-25",
       "notes": "Sakana AI 研究，需验证"
     },
@@ -127,7 +152,10 @@
       "url": "https://github.com/unit8co/darts",
       "category": "time_series",
       "description": "时序预测核心工具，统一接口",
-      "freshness_criteria": { "last_commit_days": 60, "releases_per_year": 6 },
+      "freshness_criteria": {
+        "last_commit_days": 60,
+        "releases_per_year": 6
+      },
       "added_at": "2026-07-25",
       "notes": "需求预测/ETA 预测"
     },
@@ -139,7 +167,10 @@
       "url": "https://github.com/milvus-io/milvus",
       "category": "vector_database",
       "description": "向量数据库选型，29,000+ ⭐",
-      "freshness_criteria": { "last_commit_days": 30, "releases_per_year": 12 },
+      "freshness_criteria": {
+        "last_commit_days": 30,
+        "releases_per_year": 12
+      },
       "added_at": "2026-07-25",
       "notes": "百万级运单/知识库检索"
     },
@@ -151,7 +182,10 @@
       "url": "https://github.com/postgis/postgis",
       "category": "geospatial",
       "description": "GIS 地理空间分析工具链",
-      "freshness_criteria": { "last_commit_days": 90, "releases_per_year": 2 },
+      "freshness_criteria": {
+        "last_commit_days": 90,
+        "releases_per_year": 2
+      },
       "added_at": "2026-07-25",
       "notes": "仓库选址/配送区域分析"
     },
@@ -163,7 +197,10 @@
       "url": "https://github.com/eclipse/sumo",
       "category": "simulation",
       "description": "交通与配送仿真",
-      "freshness_criteria": { "last_commit_days": 90, "releases_per_year": 2 },
+      "freshness_criteria": {
+        "last_commit_days": 90,
+        "releases_per_year": 2
+      },
       "added_at": "2026-07-25",
       "notes": "交通仿真/配送路径"
     },
@@ -175,7 +212,10 @@
       "url": "https://github.com/run-llama/llama_index",
       "category": "document_ai",
       "description": "文档 AI 与 RAG 框架",
-      "freshness_criteria": { "last_commit_days": 30, "releases_per_year": 12 },
+      "freshness_criteria": {
+        "last_commit_days": 30,
+        "releases_per_year": 12
+      },
       "added_at": "2026-07-25",
       "notes": "运单/提单文档问答"
     },
@@ -187,7 +227,10 @@
       "url": "https://github.com/mlflow/mlflow",
       "category": "mlops",
       "description": "MLOps 与评估工具链",
-      "freshness_criteria": { "last_commit_days": 30, "releases_per_year": 12 },
+      "freshness_criteria": {
+        "last_commit_days": 30,
+        "releases_per_year": 12
+      },
       "added_at": "2026-07-25",
       "notes": "实验追踪/模型评估"
     },
@@ -199,7 +242,9 @@
       "url": "https://arxiv.org/abs/1803.08475",
       "category": "academic",
       "description": "神经组合优化奠基论文",
-      "freshness_criteria": { "citation_count": 1000 },
+      "freshness_criteria": {
+        "citation_count": 1000
+      },
       "added_at": "2026-07-25",
       "notes": "VRP/TSP 注意力模型"
     },
@@ -211,7 +256,9 @@
       "url": "https://arxiv.org/abs/1506.03134",
       "category": "academic",
       "description": "序列到序列优化奠基论文",
-      "freshness_criteria": { "citation_count": 3000 },
+      "freshness_criteria": {
+        "citation_count": 3000
+      },
       "added_at": "2026-07-25",
       "notes": "序列优化经典"
     },
@@ -223,7 +270,9 @@
       "url": "https://arxiv.org/abs/1611.09940",
       "category": "academic",
       "description": "RL + 组合优化奠基论文",
-      "freshness_criteria": { "citation_count": 2000 },
+      "freshness_criteria": {
+        "citation_count": 2000
+      },
       "added_at": "2026-07-25",
       "notes": "强化学习求解组合优化"
     },
@@ -235,21 +284,26 @@
       "url": "https://arxiv.org/abs/2403.07815",
       "category": "academic",
       "description": "时间序列基础模型，零样本多任务预测",
-      "freshness_criteria": { "paper_age_months": 24 },
+      "freshness_criteria": {
+        "paper_age_months": 24
+      },
       "added_at": "2026-07-25",
       "notes": "时序基础模型新方向"
     },
     {
       "id": "T2-020",
       "tier": 2,
-      "name": "Stanford SC-TGN 供应链图网络论文 (AAAI 2025)",
+      "name": "Stanford — Learning Production Functions for Supply Chains with GNNs (AAAI 2025)",
       "type": "academic_paper",
-      "url": "https://arxiv.org/abs/2501.00000",
+      "url": "https://arxiv.org/abs/2407.18772",
       "category": "academic",
-      "description": "供应链 GNN + 库存模块",
-      "freshness_criteria": { "paper_age_months": 12 },
+      "description": "Temporal GNN + inventory module for supply chain production graph learning. AAAI 2025 AI for Social Impact Track (oral). Authors: Serina Chang, Jure Leskovec (Stanford SNAP) + Hitachi. Cited by 5.",
+      "freshness_criteria": {
+        "paper_age_months": 12
+      },
       "added_at": "2026-07-25",
-      "notes": "时空图网络供应链"
+      "notes": "✅ 已确认: arXiv:2407.18772v3 (Feb 2025). GitHub: snap-stanford/supply-chains. 原 ID 2501.00000 为占位符错误。",
+      "verified_at": "2026-07-25"
     },
     {
       "id": "T3-021",
@@ -259,7 +313,9 @@
       "url": "https://www.cainiao.com",
       "category": "industry",
       "description": "中国物流 AI 格局（闭源）",
-      "freshness_criteria": { "update_age_months": 6 },
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "头部企业动态"
     },
@@ -271,7 +327,9 @@
       "url": "https://www.logclub.com",
       "category": "industry",
       "description": "中国市场动态",
-      "freshness_criteria": { "update_age_months": 1 },
+      "freshness_criteria": {
+        "update_age_months": 1
+      },
       "added_at": "2026-07-25",
       "notes": "行业新闻/趋势"
     },
@@ -283,21 +341,26 @@
       "url": "https://www.cflp.org.cn",
       "category": "policy",
       "description": "政策与市场报告",
-      "freshness_criteria": { "report_age_months": 6 },
+      "freshness_criteria": {
+        "report_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "行业协会权威数据"
     },
     {
       "id": "T3-024",
       "tier": 3,
-      "name": "Flexport / Project44 / FourKites 官方博客",
+      "name": "Project44 Blog — Movement 平台 & Decision Intelligence",
       "type": "enterprise_blog",
-      "url": "https://www.project44.com/resources/blog",
+      "url": "https://www.project44.com/blog/project44-announces-2026-preferred-carriers",
       "category": "industry",
-      "description": "国际物流 AI 平台动态",
-      "freshness_criteria": { "update_age_months": 3 },
+      "description": "Project44 官方博客 — 2026 Preferred Carriers, Movement 决策智能平台, AI agents for supply chain workflows",
+      "freshness_criteria": {
+        "update_age_months": 3
+      },
       "added_at": "2026-07-25",
-      "notes": "实时可视化/编排平台"
+      "notes": "原 /resources/blog 路径 404，改为具体博文。Project44 已从 visibility 升级为 Decision Intelligence Platform。",
+      "verified_at": "2026-07-25"
     },
     {
       "id": "T3-025",
@@ -307,7 +370,9 @@
       "url": "https://www.locusrobotics.com",
       "category": "industry",
       "description": "仓储机器人对标",
-      "freshness_criteria": { "update_age_months": 6 },
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "AMR/视觉拣选/RaaS"
     },
@@ -319,7 +384,9 @@
       "url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM",
       "category": "ecosystem",
       "description": "中文 LLM 生态汇总",
-      "freshness_criteria": { "last_commit_days": 90 },
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
       "added_at": "2026-07-25",
       "notes": "中文大模型生态"
     },
@@ -331,7 +398,9 @@
       "url": "https://github.com/dongrixinyu/JioNLP",
       "category": "nlp",
       "description": "中文地址处理工具",
-      "freshness_criteria": { "last_commit_days": 180 },
+      "freshness_criteria": {
+        "last_commit_days": 180
+      },
       "added_at": "2026-07-25",
       "notes": "地址分词/NER"
     },
@@ -343,7 +412,9 @@
       "url": "https://huggingface.co/docs/hub/datasets-upload-guide-llm",
       "category": "ecosystem",
       "description": "数据集发布指南",
-      "freshness_criteria": { "update_age_months": 6 },
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "开源数据集发布"
     },
@@ -355,7 +426,9 @@
       "url": "https://artificialintelligenceact.eu",
       "category": "compliance",
       "description": "EU AI Act 物流 AI 合规指南",
-      "freshness_criteria": { "update_age_months": 6 },
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "欧盟 AI 法案"
     },
@@ -367,7 +440,9 @@
       "url": "https://ctl.mit.edu",
       "category": "academic",
       "description": "物流 AI 教育与研究",
-      "freshness_criteria": { "update_age_months": 6 },
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
       "added_at": "2026-07-25",
       "notes": "MIT CTL MicroMasters"
     }
