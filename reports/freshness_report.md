@@ -1,32 +1,32 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-07-25 15:27 UTC
-> 总信息源: 70 | ✅ 可达: 64 | ❌ 不可达: 6
+> 生成时间: 2026-07-26 07:11 UTC
+> 总信息源: 95 | ✅ 可达: 87 | ❌ 不可达: 8
 
 ## Tier 1 — 必读（10 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13813 | 推送: 2026-07-23  |
+| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13814 | 推送: 2026-07-23  |
 | T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 670 | 推送: 2026-07-24  |
-| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38114 | 推送: 2026-07-25  |
+| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38152 | 推送: 2026-07-26  |
 | T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ✅ | 200 |  |
 | T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ✅ | 200 |  |
 | T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ✅ | 200 | 论文存在 |
-| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86235 | 推送: 2026-07-22  |
+| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86259 | 推送: 2026-07-22  |
 | T1-008 | SupChain-Bench | academic_paper | ✅ | 200 | 论文存在 |
 | T1-009 | Sakana AI CoffeeBench | research_benchmark | ✅ | 200 |  |
 | T1-010 | Darts / GluonTS | open_source_project | ✅ | 200 | ⭐ 9475 | 推送: 2026-07-21  |
 
-## Tier 2 — 强烈推荐（30 条）
+## Tier 2 — 强烈推荐（50 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45376 | 推送: 2026-07-25  |
-| T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2179 | 推送: 2026-07-25  |
+| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45383 | 推送: 2026-07-26  |
+| T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2181 | 推送: 2026-07-26  |
 | T2-013 | SUMO / MATSim | open_source_project | ✅ | 200 | ⭐ 4107 | 推送: 2026-07-23  |
-| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51085 | 推送: 2026-07-25  |
-| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27205 | 推送: 2026-07-25  |
+| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51099 | 推送: 2026-07-26  |
+| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27213 | 推送: 2026-07-25  |
 | T2-016 | Kool et al. 'Attention, Learn  | academic_paper | ✅ | 200 | 论文存在 |
 | T2-017 | Vinyals et al. 'Pointer Networ | academic_paper | ✅ | 200 | 论文存在 |
 | T2-018 | 'Neural Combinatorial Optimiza | academic_paper | ✅ | 200 | 论文存在 |
@@ -43,7 +43,7 @@
 | T2-054 | EJOR European J Operational Re | academic_journal | ❌ | 403 |  |
 | T2-055 | EURO Association of European O | academic | ✅ | 200 |  |
 | T2-061 | Pyomo | open_source_project | ✅ | 200 | ⭐ 2493 | 推送: 2026-07-13  |
-| T2-062 | HiGHS | open_source_project | ✅ | 200 | ⭐ 1741 | 推送: 2026-07-25  |
+| T2-062 | HiGHS | open_source_project | ✅ | 200 | ⭐ 1742 | 推送: 2026-07-25  |
 | T2-063 | Timefold Solver | open_source_project | ✅ | 200 | ⭐ 1725 | 推送: 2026-07-24  |
 | T2-064 | SCIP Optimization Suite | open_source_project | ❌ | 503 |  |
 | T2-065 | Microsoft MARO | open_source_project | ✅ | 200 | ⭐ 921 | 推送: 2025-04-24  |
@@ -52,8 +52,28 @@
 | T2-068 | openWMS 开源WMS | open_source_project | ✅ | 200 | ⭐ 711 | 推送: 2026-07-13  |
 | T2-069 | LLMs for Supply Chain Manageme | academic_paper | ✅ | 200 | 论文存在 |
 | T2-070 | LNN+XGBoost 供应链牛鞭效应 (arXiv) | academic_paper | ✅ | 200 | 论文存在 |
+| T2-071 | IBM Food Trust Blockchain | commercial_platform | ✅ | 200 |  |
+| T2-072 | Supply-Chain-Blockchain DApp ( | open_source_project | ✅ | 200 | ⭐ 117 | 推送: 2026-06-05  |
+| T2-074 | GHG Protocol Scope 3 | standard | ✅ | 200 |  |
+| T2-075 | EcoTransIT World | commercial_platform | ✅ | 200 |  |
+| T2-076 | Smart Freight Centre | industry_association | ❌ | 403 |  |
+| T2-077 | Aurora Innovation | commercial_platform | ✅ | 200 |  |
+| T2-078 | Gatik Autonomous Freight | commercial_platform | ✅ | 200 |  |
+| T2-079 | Kodiak Robotics | commercial_platform | ✅ | 200 |  |
+| T2-080 | Zipline Drone Delivery | commercial_platform | ✅ | 200 |  |
+| T2-081 | Matternet | commercial_platform | ✅ | 200 |  |
+| T2-082 | Sensitech Cold Chain (Carrier) | commercial_platform | ✅ | 200 |  |
+| T2-083 | Tive Cold Chain Tracking | commercial_platform | ✅ | 200 |  |
+| T2-084 | Kaleris Navis N4 TOS | commercial_platform | ✅ | 200 |  |
+| T2-085 | TOS市场 .8B→1.4B | industry_report | ❌ | 404 |  |
+| T2-086 | Optoro Returns RMS | commercial_platform | ✅ | 200 |  |
+| T2-087 | Loop Returns Platform | commercial_platform | ✅ | 200 |  |
+| T2-088 | Uber Freight | commercial_platform | ✅ | 200 |  |
+| T2-090 | Apache OFBiz | open_source_project | ✅ | 200 | ⭐ 1092 | 推送: 2026-07-25  |
+| T2-091 | ModernWMS (GitHub) | open_source_project | ✅ | 200 | ⭐ 1662 | 推送: 2025-06-22  |
+| T2-096 | anyLogistix Supply Chain Twin | commercial_platform | ✅ | 200 |  |
 
-## Tier 3 — 推荐（30 条）
+## Tier 3 — 推荐（35 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
@@ -62,7 +82,7 @@
 | T3-023 | CFLP（中国物流与采购联合会）报告 | industry_association | ✅ | 200 |  |
 | T3-024 | Project44 Blog — Movement 平台 & | enterprise_blog | ✅ | 200 |  |
 | T3-025 | Locus Robotics / Covariant / S | enterprise_resource | ✅ | 200 |  |
-| T3-026 | Awesome-Chinese-LLM GitHub 仓库 | open_source_project | ✅ | 200 | ⭐ 22696 | 推送: 2026-05-10  |
+| T3-026 | Awesome-Chinese-LLM GitHub 仓库 | open_source_project | ✅ | 200 | ⭐ 22697 | 推送: 2026-05-10  |
 | T3-027 | JioNLP / APLT 中文地址解析项目 | open_source_project | ✅ | 200 | ⭐ 3854 | 推送: 2026-06-05  |
 | T3-028 | HuggingFace Hub 数据集上传指南 | official_documentation | ✅ | 200 |  |
 | T3-029 | EU AI Act 物流 AI 合规解读 | policy_interpretation | ✅ | 200 |  |
@@ -87,6 +107,11 @@
 | T3-058 | 中国仓储与配送协会 CAWD | industry_association | ✅ | 200 |  |
 | T3-059 | 中国集装箱行业协会 | industry_association | ✅ | 200 |  |
 | T3-060 | CIFA 中国国际货运代理协会 | industry_association | ✅ | 200 |  |
+| T3-073 | 区块链供应链市场报告 SNS | industry_report | ✅ | 200 |  |
+| T3-089 | 数字货运匹配市场 9.62B→36.61B | industry_report | ✅ | 200 |  |
+| T3-093 | ShipBob 3PL | commercial_platform | ✅ | 200 |  |
+| T3-094 | Stord 云供应链 | commercial_platform | ✅ | 200 |  |
+| T3-095 | 满帮集团 Full Truck Alliance | commercial_platform | ✅ | 200 |  |
 
 ## ❌ 不可达信息源
 
@@ -102,6 +127,10 @@
   - URL: https://www.sciencedirect.com/journal/european-journal-of-operational-research
 - **T2-064 SCIP Optimization Suite** — HTTP Error 503: Service Temporarily Unavailable
   - URL: https://www.scipopt.org/
+- **T2-076 Smart Freight Centre** — HTTP Error 403: Forbidden
+  - URL: https://www.smartfreightcentre.org
+- **T2-085 TOS市场 .8B→1.4B** — HTTP Error 404: Not Found
+  - URL: https://marketintelo.com/report/terminal-operating-system-software-market
 
 ## 🔄 需要关注更新
 
@@ -119,6 +148,8 @@
 - **T2-047 VLM综述论文 (arXiv:2501.02189)** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-069 LLMs for Supply Chain Management (arXiv:2505.18597)** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-070 LNN+XGBoost 供应链牛鞭效应 (arXiv)** — 类型: academic_paper，建议检查是否有新版发布
+- **T3-073 区块链供应链市场报告 SNS** — 类型: industry_report，建议检查是否有新版发布
+- **T3-089 数字货运匹配市场 9.62B→36.61B** — 类型: industry_report，建议检查是否有新版发布
 
 ---
 *本报告由 `check_freshness.py` + `generate_report.py` 自动生成*

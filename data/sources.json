@@ -9,8 +9,9 @@
       "2": "强烈推荐（深度技术参考）",
       "3": "推荐（行业应用/扩展阅读）"
     },
-    "last_updated": "2026-07-25T14:10:29Z",
-    "last_verified_by": "manual-fix-3-urls"
+    "last_updated": "2026-07-26",
+    "last_verified_by": "manual-fix-3-urls",
+    "total": 95
   },
   "sources": [
     {
@@ -983,6 +984,356 @@
       "category": "academic",
       "description": "Liquid Neural Networks + XGBoost优化多级供应链",
       "added_at": "2026-07-25",
+      "notes": ""
+    },
+    {
+      "id": "T2-071",
+      "tier": 2,
+      "name": "IBM Food Trust Blockchain",
+      "type": "commercial_platform",
+      "url": "https://www.ibm.com/think/topics/blockchain-for-supply-chain",
+      "category": "blockchain",
+      "description": "IBM区块链供应链溯源，Food Trust覆盖200+跨国企业，溯源效率+90%，风险控制成本-65%",
+      "freshness_criteria": {
+        "update_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-072",
+      "tier": 2,
+      "name": "Supply-Chain-Blockchain DApp (GitHub)",
+      "type": "open_source_project",
+      "url": "https://github.com/faizack/Supply-Chain-Blockchain",
+      "category": "blockchain",
+      "description": "以太坊供应链管理DApp，Solidity智能合约+Next.js+Web3.js",
+      "freshness_criteria": {
+        "last_commit_days": 365
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-073",
+      "tier": 3,
+      "name": "区块链供应链市场报告 SNS",
+      "type": "industry_report",
+      "url": "https://www.snsinsider.com/reports/blockchain-in-supply-chain-market-8971",
+      "category": "blockchain",
+      "description": ".20B(2025)→4.73B(2035) CAGR 28.57%",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-074",
+      "tier": 2,
+      "name": "GHG Protocol Scope 3",
+      "type": "standard",
+      "url": "https://ghgprotocol.org",
+      "category": "carbon_emissions",
+      "description": "温室气体核算标准，Scope 3运输占全球排放8-11%",
+      "freshness_criteria": {
+        "update_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-075",
+      "tier": 2,
+      "name": "EcoTransIT World",
+      "type": "commercial_platform",
+      "url": "https://www.ecotransit.org",
+      "category": "carbon_emissions",
+      "description": "物流碳排放计算工具，ISO 14083+GLEC+GHG Protocol认证",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-076",
+      "tier": 2,
+      "name": "Smart Freight Centre",
+      "type": "industry_association",
+      "url": "https://www.smartfreightcentre.org",
+      "category": "carbon_emissions",
+      "description": "GLEC框架，物流碳排放数据交换标准",
+      "freshness_criteria": {
+        "update_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-077",
+      "tier": 2,
+      "name": "Aurora Innovation",
+      "type": "commercial_platform",
+      "url": "https://aurora.tech",
+      "category": "autonomous_trucking",
+      "description": "2025.04首条无人驾驶商业货运Dallas-Houston，250K+无人驾驶英里零事故",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-078",
+      "tier": 2,
+      "name": "Gatik Autonomous Freight",
+      "type": "commercial_platform",
+      "url": "https://gatik.ai",
+      "category": "autonomous_trucking",
+      "description": "2026.01首个美国大规模全无人卡车商业运营，00M合同收入，Walmart/PepsiCo客户",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-079",
+      "tier": 2,
+      "name": "Kodiak Robotics",
+      "type": "commercial_platform",
+      "url": "https://kodiak.ai",
+      "category": "autonomous_trucking",
+      "description": "2026.04 Level 4 I-70 Ohio+Indiana中西部扩展，最大无人驾驶Class 8车队",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-080",
+      "tier": 2,
+      "name": "Zipline Drone Delivery",
+      "type": "commercial_platform",
+      "url": "https://flyzipline.com",
+      "category": "drone_delivery",
+      "description": "1.4M+自主送货，100M商业英里，医疗+零售双赛道",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-081",
+      "tier": 2,
+      "name": "Matternet",
+      "type": "commercial_platform",
+      "url": "https://www.matternet.com",
+      "category": "drone_delivery",
+      "description": "世界唯一FAA Type Certification无人机送货网络",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-082",
+      "tier": 2,
+      "name": "Sensitech Cold Chain (Carrier)",
+      "type": "commercial_platform",
+      "url": "https://www.sensitech.com",
+      "category": "cold_chain_iot",
+      "description": "Carrier旗下冷链IoT，ColdStream Select实时监控，-90°C至+55°C",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-083",
+      "tier": 2,
+      "name": "Tive Cold Chain Tracking",
+      "type": "commercial_platform",
+      "url": "https://www.tive.com",
+      "category": "cold_chain_iot",
+      "description": "实时冷链温度+位置监控，运输中异常告警",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-084",
+      "tier": 2,
+      "name": "Kaleris Navis N4 TOS",
+      "type": "commercial_platform",
+      "url": "https://kaleris.com/solutions/terminal-operating-system",
+      "category": "port_automation",
+      "description": "TOS行业标准30+年，350+客户92国，80%全球码头使用，N4 4.0云原生",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-085",
+      "tier": 2,
+      "name": "TOS市场 .8B→1.4B",
+      "type": "industry_report",
+      "url": "https://marketintelo.com/report/terminal-operating-system-software-market",
+      "category": "port_automation",
+      "description": "全球TOS市场CAGR 7.8%，亚太最大，AI+IoT+云驱动",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-086",
+      "tier": 2,
+      "name": "Optoro Returns RMS",
+      "type": "commercial_platform",
+      "url": "https://www.optoro.com",
+      "category": "reverse_logistics",
+      "description": "AI逆向物流SmartDisposition引擎，运输成本-20%，回收价值最大化",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-087",
+      "tier": 2,
+      "name": "Loop Returns Platform",
+      "type": "commercial_platform",
+      "url": "https://www.loopreturns.com",
+      "category": "reverse_logistics",
+      "description": "AI退换货+防欺诈平台，5000+品牌，Shopify生态",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-088",
+      "tier": 2,
+      "name": "Uber Freight",
+      "type": "commercial_platform",
+      "url": "https://www.uberfreight.com",
+      "category": "freight_matching",
+      "description": "北美最大托管运输+多式联运网络，TMS+运力管理",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-089",
+      "tier": 3,
+      "name": "数字货运匹配市场 9.62B→36.61B",
+      "type": "industry_report",
+      "url": "https://www.mordorintelligence.com/industry-reports/digital-freight-matching-platforms-market",
+      "category": "freight_matching",
+      "description": "CAGR 28.09%，整车匹配81.96%份额",
+      "freshness_criteria": {
+        "report_age_months": 12
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-090",
+      "tier": 2,
+      "name": "Apache OFBiz",
+      "type": "open_source_project",
+      "url": "https://github.com/apache/ofbiz-framework",
+      "category": "erp_wms",
+      "description": "Apache顶级开源ERP，Java，供应链管理+仓储+制造+会计",
+      "freshness_criteria": {
+        "last_commit_days": 90
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-091",
+      "tier": 2,
+      "name": "ModernWMS (GitHub)",
+      "type": "open_source_project",
+      "url": "https://github.com/fjykTec/ModernWMS",
+      "category": "erp_wms",
+      "description": "中文开源WMS，.NET 7.0+前端SPA，中小型企业适用",
+      "freshness_criteria": {
+        "last_commit_days": 365
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-093",
+      "tier": 3,
+      "name": "ShipBob 3PL",
+      "type": "commercial_platform",
+      "url": "https://www.shipbob.com",
+      "category": "3pl_fulfillment",
+      "description": "2026电商履约报告，416位高管调研，百万级订单数据",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-094",
+      "tier": 3,
+      "name": "Stord 云供应链",
+      "type": "commercial_platform",
+      "url": "https://stord.com",
+      "category": "3pl_fulfillment",
+      "description": "云供应链+分布式仓储，中大型企业级3PL",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-095",
+      "tier": 3,
+      "name": "满帮集团 Full Truck Alliance",
+      "type": "commercial_platform",
+      "url": "https://www.fulltruckalliance.com",
+      "category": "china_logistics",
+      "description": "中国干线运力基础设施，AI智能找车，300+城市",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-096",
+      "tier": 2,
+      "name": "anyLogistix Supply Chain Twin",
+      "type": "commercial_platform",
+      "url": "https://www.anylogistix.com",
+      "category": "digital_twin",
+      "description": "供应链数字孪生+仿真+优化，AnyLogic引擎+IBM CPLEX求解器，2026 Conference",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
       "notes": ""
     }
   ]
