@@ -11,7 +11,7 @@
     },
     "last_updated": "2026-07-26",
     "last_verified_by": "manual-fix-3-urls",
-    "total": 95
+    "total": 115
   },
   "sources": [
     {
@@ -1332,6 +1332,286 @@
       "description": "供应链数字孪生+仿真+优化，AnyLogic引擎+IBM CPLEX求解器，2026 Conference",
       "freshness_criteria": {
         "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-097",
+      "tier": 2,
+      "name": "SAP Taulia",
+      "type": "commercial_platform",
+      "url": "https://taulia.com",
+      "category": "supply_chain_finance",
+      "description": "SAP旗下供应链金融平台，$400B+加速付款，动态折扣+提前付款",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-098",
+      "tier": 2,
+      "name": "C2FO",
+      "type": "commercial_platform",
+      "url": "https://c2fo.com",
+      "category": "supply_chain_finance",
+      "description": "全球最大动态折扣平台，$1T+年交易额，500万+企业",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-099",
+      "tier": 2,
+      "name": "PrimeRevenue",
+      "type": "commercial_platform",
+      "url": "https://primerevenue.com",
+      "category": "supply_chain_finance",
+      "description": "反向保理领导者，59000+供应商102国，Global Finance最佳SCF非银行",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-100",
+      "tier": 2,
+      "name": "Geek+ 极智嘉",
+      "type": "commercial_platform",
+      "url": "https://www.geekplus.com/en",
+      "category": "warehouse_robotics",
+      "description": "全球AMR #1，连续7年，23%市场份额，1000+客户",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-101",
+      "tier": 2,
+      "name": "Locus Robotics",
+      "type": "commercial_platform",
+      "url": "https://locusrobotics.com",
+      "category": "warehouse_robotics",
+      "description": "13000+机器人部署，RaaS模式，LocusOne云FMS，AMR协同拣选",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-102",
+      "tier": 2,
+      "name": "Symbotic",
+      "type": "commercial_platform",
+      "url": "https://www.symbotic.com",
+      "category": "warehouse_robotics",
+      "description": "AI端到端仓储，$31.3B市值，Walmart/Target客户，高吞吐自动",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-103",
+      "tier": 2,
+      "name": "Amazon Robotics",
+      "type": "commercial_platform",
+      "url": "https://www.amazonrobotics.com",
+      "category": "warehouse_robotics",
+      "description": "100万+内部机器人，Proteus/Cardinal/Sparrow/Sequoia，2025节省$520M",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-104",
+      "tier": 2,
+      "name": "Resilinc",
+      "type": "commercial_platform",
+      "url": "https://resilinc.ai",
+      "category": "supply_chain_risk",
+      "description": "2026 Gartner MQ Leader供应商风险管理，多层级映射+AI预测+实时告警",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-105",
+      "tier": 2,
+      "name": "Everstream Analytics",
+      "type": "commercial_platform",
+      "url": "https://www.everstream.ai",
+      "category": "supply_chain_risk",
+      "description": "AI供应链风险预测+实时可见性，天气/劳工/金融多维度监控",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-106",
+      "tier": 2,
+      "name": "project44 Movement",
+      "type": "commercial_platform",
+      "url": "https://www.project44.com",
+      "category": "freight_visibility",
+      "description": "实时运输可见性领导者，300万+卡车170国，Supply Chain AI平台",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-107",
+      "tier": 2,
+      "name": "FourKites",
+      "type": "commercial_platform",
+      "url": "https://www.fourkites.com",
+      "category": "freight_visibility",
+      "description": "实时可见性+预测ETA，多式联运，Gartner 2026 MQ Leader",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-108",
+      "tier": 2,
+      "name": "Shippeo",
+      "type": "commercial_platform",
+      "url": "https://www.shippeo.com",
+      "category": "freight_visibility",
+      "description": "欧洲实时运输可见性领导者，多式联运+预测ETA",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-109",
+      "tier": 2,
+      "name": "GoComet",
+      "type": "commercial_platform",
+      "url": "https://www.gocomet.com",
+      "category": "freight_visibility",
+      "description": "Gartner 4.9★，AI运费基准+可见性，500+客户",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-110",
+      "tier": 2,
+      "name": "o9 Solutions Digital Brain",
+      "type": "commercial_platform",
+      "url": "https://o9solutions.com",
+      "category": "demand_forecasting",
+      "description": "AI知识图谱+决策智能平台，Gartner MQ Leader 5年",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-111",
+      "tier": 2,
+      "name": "Kinaxis RapidResponse",
+      "type": "commercial_platform",
+      "url": "https://www.kinaxis.com",
+      "category": "demand_forecasting",
+      "description": "并发计划平台，分钟级What-if场景模拟，Gartner MQ Leader 12年",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-112",
+      "tier": 2,
+      "name": "Blue Yonder Supply Chain",
+      "type": "commercial_platform",
+      "url": "https://blueyonder.com",
+      "category": "demand_forecasting",
+      "description": "Luminate AI/ML概率预测，Gartner MQ Leader 19年",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-113",
+      "tier": 2,
+      "name": "RELEX Solutions",
+      "type": "commercial_platform",
+      "url": "https://www.relexsolutions.com",
+      "category": "demand_forecasting",
+      "description": "零售SKU级AI预测+自动补货，FMCG/零售专注",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-114",
+      "tier": 2,
+      "name": "Flexport",
+      "type": "commercial_platform",
+      "url": "https://www.flexport.com",
+      "category": "cross_border",
+      "description": "AI-native报关技术平台，HS编码分类+AI合规审计+关税优化",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T2-115",
+      "tier": 2,
+      "name": "FreightAmigo",
+      "type": "commercial_platform",
+      "url": "https://www.freightamigo.com",
+      "category": "cross_border",
+      "description": "AI跨境物流平台，HS编码分类+多式联运报价+合规",
+      "freshness_criteria": {
+        "update_age_months": 6
+      },
+      "added_at": "2026-07-26",
+      "notes": ""
+    },
+    {
+      "id": "T3-116",
+      "tier": 3,
+      "name": "Swiss Post AI关税分类",
+      "type": "industry_report",
+      "url": "https://international.post.ch/en/blog/ai-based-tariff-classification-for-e-commerce",
+      "category": "cross_border",
+      "description": "AI海关关税分类2026，ICS2合规，电商自动HS编码",
+      "freshness_criteria": {
+        "report_age_months": 12
       },
       "added_at": "2026-07-26",
       "notes": ""
