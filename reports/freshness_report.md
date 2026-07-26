@@ -1,18 +1,18 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-07-26 07:11 UTC
-> 总信息源: 95 | ✅ 可达: 87 | ❌ 不可达: 8
+> 生成时间: 2026-07-26 07:20 UTC
+> 总信息源: 95 | ✅ 可达: 82 | ❌ 不可达: 13
 
 ## Tier 1 — 必读（10 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13814 | 推送: 2026-07-23  |
-| T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 670 | 推送: 2026-07-24  |
-| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 38152 | 推送: 2026-07-26  |
-| T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ✅ | 200 |  |
-| T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ✅ | 200 |  |
-| T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ✅ | 200 | 论文存在 |
+| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 |  |
+| T1-002 | PyVRP | open_source_project | ❌ | 0 |  |
+| T1-003 | LangGraph 1.0 + MCP | open_source_project | ❌ | 0 |  |
+| T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ❌ | 0 |  |
+| T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ❌ | 0 |  |
+| T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ❌ | 0 | ⚠️ 论文不存在 |
 | T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 86259 | 推送: 2026-07-22  |
 | T1-008 | SupChain-Bench | academic_paper | ✅ | 200 | 论文存在 |
 | T1-009 | Sakana AI CoffeeBench | research_benchmark | ✅ | 200 |  |
@@ -22,10 +22,10 @@
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45383 | 推送: 2026-07-26  |
+| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45384 | 推送: 2026-07-26  |
 | T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2181 | 推送: 2026-07-26  |
 | T2-013 | SUMO / MATSim | open_source_project | ✅ | 200 | ⭐ 4107 | 推送: 2026-07-23  |
-| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51099 | 推送: 2026-07-26  |
+| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51100 | 推送: 2026-07-26  |
 | T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27213 | 推送: 2026-07-25  |
 | T2-016 | Kool et al. 'Attention, Learn  | academic_paper | ✅ | 200 | 论文存在 |
 | T2-017 | Vinyals et al. 'Pointer Networ | academic_paper | ✅ | 200 | 论文存在 |
@@ -115,6 +115,16 @@
 
 ## ❌ 不可达信息源
 
+- **T1-002 PyVRP** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://github.com/PyVRP/PyVRP
+- **T1-003 LangGraph 1.0 + MCP** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://github.com/langchain-ai/langgraph
+- **T1-004 Gartner Magic Quadrant & Supply Chain Top 25（Wikipedia）** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://en.wikipedia.org/wiki/Gartner
+- **T1-005 NVIDIA Isaac Sim / Omniverse** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://developer.nvidia.com/isaac/sim
+- **T1-006 Qwen3 / DeepSeek-V3 技术报告** — <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)>
+  - URL: https://arxiv.org/abs/2505.09388
 - **T3-035 《中国管理科学》** — HTTP Error 403: Forbidden
   - URL: https://www.zgglkx.com
 - **T3-044 浙大物流与供应链学术会议** — HTTP Error 403: Forbidden
@@ -136,7 +146,6 @@
 
 以下信息源可达，建议人工检查是否有新版本/新发布：
 
-- **T1-004 Gartner Magic Quadrant & Supply Chain Top 25（Wikipedia）** — 类型: industry_report，建议检查是否有新版发布
 - **T1-008 SupChain-Bench** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-016 Kool et al. 'Attention, Learn to Solve Routing Problems' (ICLR 2019)** — 类型: academic_paper，建议检查是否有新版发布
 - **T2-017 Vinyals et al. 'Pointer Networks'** — 类型: academic_paper，建议检查是否有新版发布
