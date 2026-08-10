@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-03T12:36:11.899206+00:00",
+  "generated_at": "2026-08-10T10:25:48.268739+00:00",
   "total_sources": 115,
-  "reachable": 101,
-  "unreachable": 14,
+  "reachable": 103,
+  "unreachable": 12,
   "results": [
     {
       "id": "T1-001",
@@ -11,19 +11,11 @@
       "url": "https://github.com/google/or-tools",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:32:41.849105+00:00",
+      "checked_at": "2026-08-10T10:24:18.263090+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 13846,
-        "forks": 2452,
-        "open_issues": 114,
-        "pushed_at": "2026-08-03T12:01:12Z",
-        "updated_at": "2026-08-03T12:25:04Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T1-002",
@@ -32,19 +24,11 @@
       "url": "https://github.com/PyVRP/PyVRP",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:32:42.522385+00:00",
+      "checked_at": "2026-08-10T10:24:18.972523+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 674,
-        "forks": 155,
-        "open_issues": 47,
-        "pushed_at": "2026-08-03T12:10:58Z",
-        "updated_at": "2026-07-31T08:55:57Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T1-003",
@@ -53,19 +37,11 @@
       "url": "https://github.com/langchain-ai/langgraph",
       "type": "open_source_project",
       "category": "agent_orchestration",
-      "checked_at": "2026-08-03T12:32:43.291571+00:00",
+      "checked_at": "2026-08-10T10:24:19.861501+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 38759,
-        "forks": 6531,
-        "open_issues": 670,
-        "pushed_at": "2026-08-02T00:51:22Z",
-        "updated_at": "2026-08-03T12:22:22Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T1-004",
@@ -74,10 +50,10 @@
       "url": "https://en.wikipedia.org/wiki/Gartner",
       "type": "industry_report",
       "category": "platform_selection",
-      "checked_at": "2026-08-03T12:32:44.103925+00:00",
+      "checked_at": "2026-08-10T10:24:20.591559+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 20 Jul 2026 18:54:55 GMT",
+      "last_modified": "Sun, 09 Aug 2026 16:48:36 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -87,7 +63,7 @@
       "url": "https://developer.nvidia.com/isaac/sim",
       "type": "commercial_platform",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:32:44.159219+00:00",
+      "checked_at": "2026-08-10T10:24:20.744948+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -100,7 +76,7 @@
       "url": "https://arxiv.org/abs/2505.09388",
       "type": "model_report",
       "category": "base_model",
-      "checked_at": "2026-08-03T12:32:44.459915+00:00",
+      "checked_at": "2026-08-10T10:24:20.998878+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 02 Mar 2026 02:26:22 GMT",
@@ -117,19 +93,11 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "type": "open_source_project",
       "category": "document_ai",
-      "checked_at": "2026-08-03T12:32:44.619943+00:00",
+      "checked_at": "2026-08-10T10:24:21.134470+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 86864,
-        "forks": 11120,
-        "open_issues": 225,
-        "pushed_at": "2026-07-22T11:59:34Z",
-        "updated_at": "2026-08-03T12:18:00Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T1-008",
@@ -138,7 +106,7 @@
       "url": "https://arxiv.org/abs/2602.07342",
       "type": "academic_paper",
       "category": "benchmark",
-      "checked_at": "2026-08-03T12:32:45.406816+00:00",
+      "checked_at": "2026-08-10T10:24:21.686281+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Thu, 14 May 2026 01:14:38 GMT",
@@ -155,10 +123,10 @@
       "url": "https://sakana.ai",
       "type": "research_benchmark",
       "category": "benchmark",
-      "checked_at": "2026-08-03T12:32:45.630736+00:00",
+      "checked_at": "2026-08-10T10:24:21.786273+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 01:05:05 GMT",
+      "last_modified": "Mon, 10 Aug 2026 09:31:23 GMT",
       "content_type": "text/html; charset=utf-8"
     },
     {
@@ -168,19 +136,11 @@
       "url": "https://github.com/unit8co/darts",
       "type": "open_source_project",
       "category": "time_series",
-      "checked_at": "2026-08-03T12:32:45.977157+00:00",
+      "checked_at": "2026-08-10T10:24:21.825883+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 9481,
-        "forks": 1021,
-        "open_issues": 215,
-        "pushed_at": "2026-07-31T08:07:36Z",
-        "updated_at": "2026-08-03T08:44:16Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-011",
@@ -189,19 +149,11 @@
       "url": "https://github.com/milvus-io/milvus",
       "type": "open_source_project",
       "category": "vector_database",
-      "checked_at": "2026-08-03T12:32:46.799529+00:00",
+      "checked_at": "2026-08-10T10:24:22.388457+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 45484,
-        "forks": 4154,
-        "open_issues": 1176,
-        "pushed_at": "2026-08-03T11:58:19Z",
-        "updated_at": "2026-08-03T12:32:22Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-012",
@@ -210,19 +162,11 @@
       "url": "https://github.com/postgis/postgis",
       "type": "open_source_project",
       "category": "geospatial",
-      "checked_at": "2026-08-03T12:32:47.657133+00:00",
+      "checked_at": "2026-08-10T10:24:23.004885+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 2192,
-        "forks": 432,
-        "open_issues": 74,
-        "pushed_at": "2026-08-03T10:39:23Z",
-        "updated_at": "2026-08-03T10:41:18Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-013",
@@ -231,19 +175,11 @@
       "url": "https://github.com/eclipse/sumo",
       "type": "open_source_project",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:32:48.403535+00:00",
+      "checked_at": "2026-08-10T10:24:23.512123+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 4120,
-        "forks": 1748,
-        "open_issues": 2983,
-        "pushed_at": "2026-07-31T07:59:34Z",
-        "updated_at": "2026-08-03T07:33:53Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-014",
@@ -252,19 +188,11 @@
       "url": "https://github.com/run-llama/llama_index",
       "type": "open_source_project",
       "category": "document_ai",
-      "checked_at": "2026-08-03T12:32:49.779011+00:00",
+      "checked_at": "2026-08-10T10:24:24.198237+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 51339,
-        "forks": 7863,
-        "open_issues": 612,
-        "pushed_at": "2026-08-01T08:59:09Z",
-        "updated_at": "2026-08-03T11:59:15Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-015",
@@ -273,19 +201,11 @@
       "url": "https://github.com/mlflow/mlflow",
       "type": "open_source_project",
       "category": "mlops",
-      "checked_at": "2026-08-03T12:32:50.554916+00:00",
+      "checked_at": "2026-08-10T10:24:24.682497+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 27342,
-        "forks": 6105,
-        "open_issues": 2091,
-        "pushed_at": "2026-08-03T11:56:12Z",
-        "updated_at": "2026-08-03T11:10:34Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-016",
@@ -294,7 +214,7 @@
       "url": "https://arxiv.org/abs/1803.08475",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:32:51.344813+00:00",
+      "checked_at": "2026-08-10T10:24:25.333863+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Fri, 08 Feb 2019 01:08:37 GMT",
@@ -311,7 +231,7 @@
       "url": "https://arxiv.org/abs/1506.03134",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:32:51.395235+00:00",
+      "checked_at": "2026-08-10T10:24:25.466006+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Tue, 03 Jan 2017 01:06:33 GMT",
@@ -328,7 +248,7 @@
       "url": "https://arxiv.org/abs/1611.09940",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:32:51.415425+00:00",
+      "checked_at": "2026-08-10T10:24:25.691319+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 16 Jan 2017 01:02:29 GMT",
@@ -345,7 +265,7 @@
       "url": "https://arxiv.org/abs/2403.07815",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:32:51.457102+00:00",
+      "checked_at": "2026-08-10T10:24:25.738786+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Tue, 05 Nov 2024 02:53:58 GMT",
@@ -362,7 +282,7 @@
       "url": "https://arxiv.org/abs/2407.18772",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:32:51.511482+00:00",
+      "checked_at": "2026-08-10T10:24:25.872106+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Wed, 26 Feb 2025 01:12:07 GMT",
@@ -379,7 +299,7 @@
       "url": "https://www.cainiao.com",
       "type": "enterprise_release",
       "category": "industry",
-      "checked_at": "2026-08-03T12:32:51.623057+00:00",
+      "checked_at": "2026-08-10T10:24:25.973453+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -392,7 +312,7 @@
       "url": "https://www.logclub.com",
       "type": "industry_media",
       "category": "industry",
-      "checked_at": "2026-08-03T12:32:52.532799+00:00",
+      "checked_at": "2026-08-10T10:24:26.427447+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -405,7 +325,7 @@
       "url": "https://www.cflp.org.cn",
       "type": "industry_association",
       "category": "policy",
-      "checked_at": "2026-08-03T12:32:54.666598+00:00",
+      "checked_at": "2026-08-10T10:24:28.406247+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -418,7 +338,7 @@
       "url": "https://www.project44.com/blog/project44-announces-2026-preferred-carriers",
       "type": "enterprise_blog",
       "category": "industry",
-      "checked_at": "2026-08-03T12:32:56.913992+00:00",
+      "checked_at": "2026-08-10T10:24:30.218109+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -431,7 +351,7 @@
       "url": "https://www.locusrobotics.com",
       "type": "enterprise_resource",
       "category": "industry",
-      "checked_at": "2026-08-03T12:32:59.191798+00:00",
+      "checked_at": "2026-08-10T10:24:31.198810+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 18 May 2026 21:14:33 GMT",
@@ -444,19 +364,11 @@
       "url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM",
       "type": "open_source_project",
       "category": "ecosystem",
-      "checked_at": "2026-08-03T12:32:59.411921+00:00",
+      "checked_at": "2026-08-10T10:24:31.413896+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 22721,
-        "forks": 2135,
-        "open_issues": 25,
-        "pushed_at": "2026-05-10T05:03:06Z",
-        "updated_at": "2026-08-03T11:28:26Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T3-027",
@@ -465,19 +377,11 @@
       "url": "https://github.com/dongrixinyu/JioNLP",
       "type": "open_source_project",
       "category": "nlp",
-      "checked_at": "2026-08-03T12:33:00.868159+00:00",
+      "checked_at": "2026-08-10T10:24:32.196788+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 3858,
-        "forks": 441,
-        "open_issues": 42,
-        "pushed_at": "2026-07-29T14:04:05Z",
-        "updated_at": "2026-08-02T13:45:55Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T3-028",
@@ -486,7 +390,7 @@
       "url": "https://huggingface.co/docs/hub/datasets-upload-guide-llm",
       "type": "official_documentation",
       "category": "ecosystem",
-      "checked_at": "2026-08-03T12:33:01.602013+00:00",
+      "checked_at": "2026-08-10T10:24:32.864129+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -499,7 +403,7 @@
       "url": "https://artificialintelligenceact.eu",
       "type": "policy_interpretation",
       "category": "compliance",
-      "checked_at": "2026-08-03T12:33:01.741669+00:00",
+      "checked_at": "2026-08-10T10:24:33.102526+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -512,7 +416,7 @@
       "url": "https://ctl.mit.edu",
       "type": "academic",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:01.968833+00:00",
+      "checked_at": "2026-08-10T10:24:33.483482+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -525,7 +429,7 @@
       "url": "http://www.chinawuliu.com.cn",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:02.291456+00:00",
+      "checked_at": "2026-08-10T10:24:33.849115+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -538,7 +442,7 @@
       "url": "http://www.clic.org.cn",
       "type": "data_platform",
       "category": "data_platform",
-      "checked_at": "2026-08-03T12:33:03.553064+00:00",
+      "checked_at": "2026-08-10T10:24:34.767768+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -551,7 +455,7 @@
       "url": "http://csl.chinawuliu.com.cn",
       "type": "academic_organization",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:04.391138+00:00",
+      "checked_at": "2026-08-10T10:24:35.428236+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -564,7 +468,7 @@
       "url": "https://gylg.cbpt.cnki.net",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:05.356633+00:00",
+      "checked_at": "2026-08-10T10:24:36.335812+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -577,7 +481,7 @@
       "url": "https://www.zgglkx.com",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:07.196947+00:00",
+      "checked_at": "2026-08-10T10:24:37.975923+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -589,7 +493,7 @@
       "url": "https://www.sdwl.org.cn",
       "type": "provincial_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:09.120036+00:00",
+      "checked_at": "2026-08-10T10:24:39.671183+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -602,7 +506,7 @@
       "url": "http://www.wlhyxh.com",
       "type": "provincial_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:11.224413+00:00",
+      "checked_at": "2026-08-10T10:24:41.190420+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -615,11 +519,10 @@
       "url": "https://www.scxd56.net",
       "type": "provincial_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:11.916634+00:00",
-      "reachable": true,
-      "status_code": 200,
-      "last_modified": "",
-      "content_type": "text/html; charset=utf-8"
+      "checked_at": "2026-08-10T10:24:41.813685+00:00",
+      "reachable": false,
+      "status_code": 0,
+      "error": "<urlopen error timed out>"
     },
     {
       "id": "T3-039",
@@ -628,7 +531,7 @@
       "url": "https://www.zjwlcg.org",
       "type": "provincial_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:13.302755+00:00",
+      "checked_at": "2026-08-10T10:24:57.695531+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Tue, 10 Sep 2024 07:29:05 GMT",
@@ -641,10 +544,10 @@
       "url": "http://www.56home.org",
       "type": "provincial_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:14.257815+00:00",
+      "checked_at": "2026-08-10T10:24:58.592335+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Fri, 03 Jul 2026 07:37:15 GMT",
+      "last_modified": "Mon, 10 Aug 2026 08:26:14 GMT",
       "content_type": "text/html"
     },
     {
@@ -654,7 +557,7 @@
       "url": "https://open.sf-express.com",
       "type": "enterprise_api",
       "category": "enterprise_platform",
-      "checked_at": "2026-08-03T12:33:15.012586+00:00",
+      "checked_at": "2026-08-10T10:24:59.405438+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Thu, 09 Apr 2026 10:11:34 GMT",
@@ -667,10 +570,10 @@
       "url": "https://open.jdl.com",
       "type": "enterprise_api",
       "category": "enterprise_platform",
-      "checked_at": "2026-08-03T12:33:15.947332+00:00",
+      "checked_at": "2026-08-10T10:25:00.228291+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 11 May 2026 13:36:37 GMT",
+      "last_modified": "Mon, 11 May 2026 13:34:02 GMT",
       "content_type": "text/html; charset=utf-8"
     },
     {
@@ -680,7 +583,7 @@
       "url": "https://tidenews.com.cn/tmh_news.html?id=69e5da665944a20001e2ad3b",
       "type": "industry_report",
       "category": "industry_report",
-      "checked_at": "2026-08-03T12:33:17.543278+00:00",
+      "checked_at": "2026-08-10T10:25:01.582504+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -693,7 +596,7 @@
       "url": "http://www.som.zju.edu.cn/2025/0925/c63484a3085773/page.htm",
       "type": "academic_conference",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:18.839936+00:00",
+      "checked_at": "2026-08-10T10:25:02.968553+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -705,7 +608,7 @@
       "url": "http://zizhan.cifa-china.com",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:19.750022+00:00",
+      "checked_at": "2026-08-10T10:25:04.295621+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 27 Jul 2026 09:57:24 GMT",
@@ -718,7 +621,7 @@
       "url": "https://friendli.ai/blog/industrial-inspection-with-vision-language-models",
       "type": "technical_blog",
       "category": "vlm",
-      "checked_at": "2026-08-03T12:33:20.257642+00:00",
+      "checked_at": "2026-08-10T10:25:04.923847+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -731,7 +634,7 @@
       "url": "https://arxiv.org/abs/2501.02189",
       "type": "academic_paper",
       "category": "vlm",
-      "checked_at": "2026-08-03T12:33:20.345025+00:00",
+      "checked_at": "2026-08-10T10:25:05.282842+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Tue, 08 Apr 2025 00:48:38 GMT",
@@ -748,19 +651,11 @@
       "url": "https://github.com/deepsense-ai/agent-based-simulation-benchmark",
       "type": "open_source_project",
       "category": "agent_benchmark",
-      "checked_at": "2026-08-03T12:33:20.405058+00:00",
+      "checked_at": "2026-08-10T10:25:05.331399+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 10,
-        "forks": 0,
-        "open_issues": 0,
-        "pushed_at": "2026-04-29T13:34:43Z",
-        "updated_at": "2026-04-29T13:36:27Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-049",
@@ -769,19 +664,11 @@
       "url": "https://github.com/jianzhnie/awesome-instruction-datasets",
       "type": "open_source_project",
       "category": "sft",
-      "checked_at": "2026-08-03T12:33:21.252587+00:00",
+      "checked_at": "2026-08-10T10:25:05.766760+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 738,
-        "forks": 42,
-        "open_issues": 0,
-        "pushed_at": "2026-06-17T03:55:40Z",
-        "updated_at": "2026-07-23T14:45:39Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-050",
@@ -790,10 +677,10 @@
       "url": "https://llamafactory.readthedocs.io",
       "type": "open_source_project",
       "category": "sft",
-      "checked_at": "2026-08-03T12:33:22.051976+00:00",
+      "checked_at": "2026-08-10T10:25:06.372171+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 22 Jun 2026 13:32:30 GMT",
+      "last_modified": "Sun, 09 Aug 2026 08:05:37 GMT",
       "content_type": "text/html; charset=utf-8"
     },
     {
@@ -803,7 +690,7 @@
       "url": "https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:22.269372+00:00",
+      "checked_at": "2026-08-10T10:25:06.645655+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -815,7 +702,7 @@
       "url": "https://pubsonline.informs.org/toc/msom/current",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:22.293883+00:00",
+      "checked_at": "2026-08-10T10:25:06.701691+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -827,10 +714,11 @@
       "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:22.466331+00:00",
-      "reachable": false,
-      "status_code": 418,
-      "error": "HTTP Error 418: Unknown Code"
+      "checked_at": "2026-08-10T10:25:06.980303+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html;charset=UTF-8"
     },
     {
       "id": "T2-054",
@@ -839,7 +727,7 @@
       "url": "https://www.sciencedirect.com/journal/european-journal-of-operational-research",
       "type": "academic_journal",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:22.669055+00:00",
+      "checked_at": "2026-08-10T10:25:08.547716+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -851,7 +739,7 @@
       "url": "https://www.euro-online.org/web/pages/1/home",
       "type": "academic",
       "category": "academic",
-      "checked_at": "2026-08-03T12:33:22.691936+00:00",
+      "checked_at": "2026-08-10T10:25:08.630797+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -864,10 +752,10 @@
       "url": "http://cea.org.cn",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:23.259005+00:00",
+      "checked_at": "2026-08-10T10:25:13.895884+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Tue, 28 Jul 2026 00:58:12 GMT",
+      "last_modified": "Mon, 10 Aug 2026 06:18:15 GMT",
       "content_type": "text/html"
     },
     {
@@ -877,7 +765,7 @@
       "url": "https://www.spb.gov.cn/gjyzj/c100278/common_list.shtml",
       "type": "government",
       "category": "data_platform",
-      "checked_at": "2026-08-03T12:33:24.019197+00:00",
+      "checked_at": "2026-08-10T10:25:14.482749+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -890,10 +778,11 @@
       "url": "http://www.cawd.org.cn",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:33:25.773078+00:00",
-      "reachable": false,
-      "status_code": 0,
-      "error": "<urlopen error timed out>"
+      "checked_at": "2026-08-10T10:25:15.772809+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "",
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T3-059",
@@ -902,7 +791,7 @@
       "url": "https://www.chinaccia.com",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:35:26.404568+00:00",
+      "checked_at": "2026-08-10T10:25:18.327278+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -915,7 +804,7 @@
       "url": "http://zizhan.cifa-china.com",
       "type": "industry_association",
       "category": "industry_association",
-      "checked_at": "2026-08-03T12:35:27.071444+00:00",
+      "checked_at": "2026-08-10T10:25:19.143112+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 27 Jul 2026 09:57:24 GMT",
@@ -928,19 +817,11 @@
       "url": "https://github.com/Pyomo/pyomo",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:35:27.504327+00:00",
+      "checked_at": "2026-08-10T10:25:20.688464+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 2496,
-        "forks": 587,
-        "open_issues": 373,
-        "pushed_at": "2026-07-13T01:27:38Z",
-        "updated_at": "2026-08-02T22:37:37Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-062",
@@ -949,19 +830,11 @@
       "url": "https://github.com/ERGO-Code/HiGHS",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:35:28.455021+00:00",
+      "checked_at": "2026-08-10T10:25:21.275740+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 1767,
-        "forks": 338,
-        "open_issues": 170,
-        "pushed_at": "2026-08-03T10:09:32Z",
-        "updated_at": "2026-08-03T12:24:44Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-063",
@@ -970,19 +843,11 @@
       "url": "https://github.com/TimefoldAI/timefold-solver",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:35:29.324034+00:00",
+      "checked_at": "2026-08-10T10:25:21.905384+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 1736,
-        "forks": 221,
-        "open_issues": 97,
-        "pushed_at": "2026-08-03T09:36:52Z",
-        "updated_at": "2026-08-03T06:17:56Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-064",
@@ -991,7 +856,7 @@
       "url": "https://www.scipopt.org/",
       "type": "open_source_project",
       "category": "optimization",
-      "checked_at": "2026-08-03T12:35:30.359903+00:00",
+      "checked_at": "2026-08-10T10:25:22.472528+00:00",
       "reachable": false,
       "status_code": 429,
       "error": "HTTP Error 429: Too Many Requests"
@@ -1003,19 +868,11 @@
       "url": "https://github.com/microsoft/maro",
       "type": "open_source_project",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:35:31.716062+00:00",
+      "checked_at": "2026-08-10T10:25:23.852885+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 921,
-        "forks": 159,
-        "open_issues": 23,
-        "pushed_at": "2025-04-24T17:10:03Z",
-        "updated_at": "2026-07-20T15:02:15Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-066",
@@ -1024,19 +881,11 @@
       "url": "https://github.com/hubbs5/or-gym",
       "type": "open_source_project",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:35:32.679428+00:00",
+      "checked_at": "2026-08-10T10:25:24.549877+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 451,
-        "forks": 99,
-        "open_issues": 11,
-        "pushed_at": "2023-10-12T09:23:58Z",
-        "updated_at": "2026-07-30T08:40:11Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-067",
@@ -1045,19 +894,11 @@
       "url": "https://github.com/salabim/salabim",
       "type": "open_source_project",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:35:33.540828+00:00",
+      "checked_at": "2026-08-10T10:25:25.125379+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 403,
-        "forks": 75,
-        "open_issues": 0,
-        "pushed_at": "2026-05-29T12:37:58Z",
-        "updated_at": "2026-07-28T14:24:29Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-068",
@@ -1066,19 +907,11 @@
       "url": "https://github.com/openwms/org.openwms",
       "type": "open_source_project",
       "category": "simulation",
-      "checked_at": "2026-08-03T12:35:34.395094+00:00",
+      "checked_at": "2026-08-10T10:25:25.749092+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 715,
-        "forks": 221,
-        "open_issues": 2,
-        "pushed_at": "2026-07-13T06:44:15Z",
-        "updated_at": "2026-08-03T06:47:32Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-069",
@@ -1087,7 +920,7 @@
       "url": "https://arxiv.org/abs/2505.18597",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:35:35.235681+00:00",
+      "checked_at": "2026-08-10T10:25:26.245129+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Tue, 27 May 2025 00:27:31 GMT",
@@ -1104,7 +937,7 @@
       "url": "https://arxiv.org/abs/2507.21383",
       "type": "academic_paper",
       "category": "academic",
-      "checked_at": "2026-08-03T12:35:35.697861+00:00",
+      "checked_at": "2026-08-10T10:25:26.503158+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 17 Nov 2025 01:28:13 GMT",
@@ -1121,10 +954,10 @@
       "url": "https://www.ibm.com/think/topics/blockchain-for-supply-chain",
       "type": "commercial_platform",
       "category": "blockchain",
-      "checked_at": "2026-08-03T12:35:36.115435+00:00",
+      "checked_at": "2026-08-10T10:25:26.693766+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:35:36 GMT",
+      "last_modified": "Mon, 10 Aug 2026 10:25:27 GMT",
       "content_type": "text/html;charset=utf-8"
     },
     {
@@ -1134,19 +967,11 @@
       "url": "https://github.com/faizack/Supply-Chain-Blockchain",
       "type": "open_source_project",
       "category": "blockchain",
-      "checked_at": "2026-08-03T12:35:36.783370+00:00",
+      "checked_at": "2026-08-10T10:25:27.379954+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 117,
-        "forks": 44,
-        "open_issues": 3,
-        "pushed_at": "2026-06-05T15:58:53Z",
-        "updated_at": "2026-07-11T07:31:53Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T3-073",
@@ -1155,10 +980,10 @@
       "url": "https://www.snsinsider.com/reports/blockchain-in-supply-chain-market-8971",
       "type": "industry_report",
       "category": "blockchain",
-      "checked_at": "2026-08-03T12:35:37.619140+00:00",
+      "checked_at": "2026-08-10T10:25:27.950039+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:35:37 GMT",
+      "last_modified": "Sun, 09 Aug 2026 14:54:29 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1168,7 +993,7 @@
       "url": "https://ghgprotocol.org",
       "type": "standard",
       "category": "carbon_emissions",
-      "checked_at": "2026-08-03T12:35:37.757146+00:00",
+      "checked_at": "2026-08-10T10:25:28.023298+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -1180,7 +1005,7 @@
       "url": "https://www.ecotransit.org",
       "type": "commercial_platform",
       "category": "carbon_emissions",
-      "checked_at": "2026-08-03T12:35:37.946165+00:00",
+      "checked_at": "2026-08-10T10:25:28.221349+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1193,7 +1018,7 @@
       "url": "https://www.smartfreightcentre.org",
       "type": "industry_association",
       "category": "carbon_emissions",
-      "checked_at": "2026-08-03T12:35:39.459866+00:00",
+      "checked_at": "2026-08-10T10:25:29.901161+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -1205,7 +1030,7 @@
       "url": "https://aurora.tech",
       "type": "commercial_platform",
       "category": "autonomous_trucking",
-      "checked_at": "2026-08-03T12:35:39.797401+00:00",
+      "checked_at": "2026-08-10T10:25:30.152387+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1218,7 +1043,7 @@
       "url": "https://gatik.ai",
       "type": "commercial_platform",
       "category": "autonomous_trucking",
-      "checked_at": "2026-08-03T12:35:40.346217+00:00",
+      "checked_at": "2026-08-10T10:25:30.789399+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1231,7 +1056,7 @@
       "url": "https://kodiak.ai",
       "type": "commercial_platform",
       "category": "autonomous_trucking",
-      "checked_at": "2026-08-03T12:35:40.858685+00:00",
+      "checked_at": "2026-08-10T10:25:31.035390+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1244,7 +1069,7 @@
       "url": "https://flyzipline.com",
       "type": "commercial_platform",
       "category": "drone_delivery",
-      "checked_at": "2026-08-03T12:35:41.607220+00:00",
+      "checked_at": "2026-08-10T10:25:31.777460+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1257,7 +1082,7 @@
       "url": "https://www.matternet.com",
       "type": "commercial_platform",
       "category": "drone_delivery",
-      "checked_at": "2026-08-03T12:35:41.888269+00:00",
+      "checked_at": "2026-08-10T10:25:32.317493+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1270,7 +1095,7 @@
       "url": "https://www.sensitech.com",
       "type": "commercial_platform",
       "category": "cold_chain_iot",
-      "checked_at": "2026-08-03T12:35:42.091713+00:00",
+      "checked_at": "2026-08-10T10:25:32.536959+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1283,10 +1108,10 @@
       "url": "https://www.tive.com",
       "type": "commercial_platform",
       "category": "cold_chain_iot",
-      "checked_at": "2026-08-03T12:35:43.077718+00:00",
+      "checked_at": "2026-08-10T10:25:33.257890+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:35:43 GMT",
+      "last_modified": "Fri, 07 Aug 2026 14:29:21 GMT",
       "content_type": "text/html; charset=utf-8"
     },
     {
@@ -1296,7 +1121,7 @@
       "url": "https://kaleris.com/solutions/terminal-operating-system",
       "type": "commercial_platform",
       "category": "port_automation",
-      "checked_at": "2026-08-03T12:35:43.190253+00:00",
+      "checked_at": "2026-08-10T10:25:33.366944+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1309,7 +1134,7 @@
       "url": "https://marketintelo.com/report/terminal-operating-system-software-market",
       "type": "industry_report",
       "category": "port_automation",
-      "checked_at": "2026-08-03T12:35:43.825684+00:00",
+      "checked_at": "2026-08-10T10:25:33.585766+00:00",
       "reachable": false,
       "status_code": 404,
       "error": "HTTP Error 404: Not Found"
@@ -1321,7 +1146,7 @@
       "url": "https://www.optoro.com",
       "type": "commercial_platform",
       "category": "reverse_logistics",
-      "checked_at": "2026-08-03T12:35:43.878825+00:00",
+      "checked_at": "2026-08-10T10:25:33.679141+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1334,7 +1159,7 @@
       "url": "https://www.loopreturns.com",
       "type": "commercial_platform",
       "category": "reverse_logistics",
-      "checked_at": "2026-08-03T12:35:44.119965+00:00",
+      "checked_at": "2026-08-10T10:25:33.961516+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1347,7 +1172,7 @@
       "url": "https://www.uberfreight.com",
       "type": "commercial_platform",
       "category": "freight_matching",
-      "checked_at": "2026-08-03T12:35:44.804697+00:00",
+      "checked_at": "2026-08-10T10:25:34.308011+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1360,7 +1185,7 @@
       "url": "https://www.mordorintelligence.com/industry-reports/digital-freight-matching-platforms-market",
       "type": "industry_report",
       "category": "freight_matching",
-      "checked_at": "2026-08-03T12:35:45.947391+00:00",
+      "checked_at": "2026-08-10T10:25:35.433882+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -1372,19 +1197,11 @@
       "url": "https://github.com/apache/ofbiz-framework",
       "type": "open_source_project",
       "category": "erp_wms",
-      "checked_at": "2026-08-03T12:35:46.016584+00:00",
+      "checked_at": "2026-08-10T10:25:35.501666+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 1096,
-        "forks": 704,
-        "open_issues": 57,
-        "pushed_at": "2026-08-02T04:59:08Z",
-        "updated_at": "2026-08-02T04:59:26Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T2-091",
@@ -1393,19 +1210,11 @@
       "url": "https://github.com/fjykTec/ModernWMS",
       "type": "open_source_project",
       "category": "erp_wms",
-      "checked_at": "2026-08-03T12:35:46.898819+00:00",
+      "checked_at": "2026-08-10T10:25:36.236355+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
-      "content_type": "text/html; charset=utf-8",
-      "github": {
-        "stars": 1669,
-        "forks": 456,
-        "open_issues": 37,
-        "pushed_at": "2025-06-22T03:36:48Z",
-        "updated_at": "2026-08-02T02:57:57Z",
-        "archived": false
-      }
+      "content_type": "text/html; charset=utf-8"
     },
     {
       "id": "T3-093",
@@ -1414,7 +1223,7 @@
       "url": "https://www.shipbob.com",
       "type": "commercial_platform",
       "category": "3pl_fulfillment",
-      "checked_at": "2026-08-03T12:35:47.672929+00:00",
+      "checked_at": "2026-08-10T10:25:36.799392+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1427,7 +1236,7 @@
       "url": "https://stord.com",
       "type": "commercial_platform",
       "category": "3pl_fulfillment",
-      "checked_at": "2026-08-03T12:35:47.737884+00:00",
+      "checked_at": "2026-08-10T10:25:36.880330+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1440,10 +1249,11 @@
       "url": "https://www.fulltruckalliance.com",
       "type": "commercial_platform",
       "category": "china_logistics",
-      "checked_at": "2026-08-03T12:35:47.999434+00:00",
-      "reachable": false,
-      "status_code": 0,
-      "error": "The read operation timed out"
+      "checked_at": "2026-08-10T10:25:37.225274+00:00",
+      "reachable": true,
+      "status_code": 200,
+      "last_modified": "Thu, 14 May 2026 07:32:44 GMT",
+      "content_type": "text/html; charset=UTF-8"
     },
     {
       "id": "T2-096",
@@ -1452,7 +1262,7 @@
       "url": "https://www.anylogistix.com",
       "type": "commercial_platform",
       "category": "digital_twin",
-      "checked_at": "2026-08-03T12:36:04.334870+00:00",
+      "checked_at": "2026-08-10T10:25:38.968439+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1465,10 +1275,10 @@
       "url": "https://taulia.com",
       "type": "commercial_platform",
       "category": "supply_chain_finance",
-      "checked_at": "2026-08-03T12:36:04.565330+00:00",
+      "checked_at": "2026-08-10T10:25:39.234981+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:34:30 GMT",
+      "last_modified": "Mon, 10 Aug 2026 10:25:39 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1478,10 +1288,10 @@
       "url": "https://c2fo.com",
       "type": "commercial_platform",
       "category": "supply_chain_finance",
-      "checked_at": "2026-08-03T12:36:04.700475+00:00",
+      "checked_at": "2026-08-10T10:25:39.382247+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:29:09 GMT",
+      "last_modified": "Mon, 10 Aug 2026 10:25:39 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1491,7 +1301,7 @@
       "url": "https://primerevenue.com",
       "type": "commercial_platform",
       "category": "supply_chain_finance",
-      "checked_at": "2026-08-03T12:36:04.800948+00:00",
+      "checked_at": "2026-08-10T10:25:39.487078+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Wed, 08 Jul 2026 13:31:24 GMT",
@@ -1504,10 +1314,10 @@
       "url": "https://www.geekplus.com/en",
       "type": "commercial_platform",
       "category": "warehouse_robotics",
-      "checked_at": "2026-08-03T12:36:05.141261+00:00",
+      "checked_at": "2026-08-10T10:25:39.784738+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Thu, 23 Jul 2026 10:35:09 GMT",
+      "last_modified": "Wed, 05 Aug 2026 06:19:43 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1517,7 +1327,7 @@
       "url": "https://locusrobotics.com",
       "type": "commercial_platform",
       "category": "warehouse_robotics",
-      "checked_at": "2026-08-03T12:36:05.373546+00:00",
+      "checked_at": "2026-08-10T10:25:40.144430+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "Mon, 18 May 2026 21:14:33 GMT",
@@ -1530,7 +1340,7 @@
       "url": "https://www.symbotic.com",
       "type": "commercial_platform",
       "category": "warehouse_robotics",
-      "checked_at": "2026-08-03T12:36:05.468423+00:00",
+      "checked_at": "2026-08-10T10:25:40.479100+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1543,7 +1353,7 @@
       "url": "https://www.amazonrobotics.com",
       "type": "commercial_platform",
       "category": "warehouse_robotics",
-      "checked_at": "2026-08-03T12:36:05.592865+00:00",
+      "checked_at": "2026-08-10T10:25:40.699311+00:00",
       "reachable": false,
       "status_code": 403,
       "error": "HTTP Error 403: Forbidden"
@@ -1555,7 +1365,7 @@
       "url": "https://resilinc.ai",
       "type": "commercial_platform",
       "category": "supply_chain_risk",
-      "checked_at": "2026-08-03T12:36:06.474932+00:00",
+      "checked_at": "2026-08-10T10:25:41.676564+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1568,10 +1378,10 @@
       "url": "https://www.everstream.ai",
       "type": "commercial_platform",
       "category": "supply_chain_risk",
-      "checked_at": "2026-08-03T12:36:06.822815+00:00",
+      "checked_at": "2026-08-10T10:25:42.901919+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 12:36:06 GMT",
+      "last_modified": "",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1581,7 +1391,7 @@
       "url": "https://www.project44.com",
       "type": "commercial_platform",
       "category": "freight_visibility",
-      "checked_at": "2026-08-03T12:36:06.885874+00:00",
+      "checked_at": "2026-08-10T10:25:43.091509+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1594,7 +1404,7 @@
       "url": "https://www.fourkites.com",
       "type": "commercial_platform",
       "category": "freight_visibility",
-      "checked_at": "2026-08-03T12:36:06.961013+00:00",
+      "checked_at": "2026-08-10T10:25:43.373434+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1607,10 +1417,10 @@
       "url": "https://www.shippeo.com",
       "type": "commercial_platform",
       "category": "freight_visibility",
-      "checked_at": "2026-08-03T12:36:07.089633+00:00",
+      "checked_at": "2026-08-10T10:25:43.501757+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Fri, 31 Jul 2026 14:14:55 GMT",
+      "last_modified": "Mon, 10 Aug 2026 10:25:43 GMT",
       "content_type": "text/html; charset=utf-8"
     },
     {
@@ -1620,7 +1430,7 @@
       "url": "https://www.gocomet.com",
       "type": "commercial_platform",
       "category": "freight_visibility",
-      "checked_at": "2026-08-03T12:36:07.213041+00:00",
+      "checked_at": "2026-08-10T10:25:43.685162+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1633,7 +1443,7 @@
       "url": "https://o9solutions.com",
       "type": "commercial_platform",
       "category": "demand_forecasting",
-      "checked_at": "2026-08-03T12:36:08.098496+00:00",
+      "checked_at": "2026-08-10T10:25:44.429581+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1646,10 +1456,10 @@
       "url": "https://www.kinaxis.com",
       "type": "commercial_platform",
       "category": "demand_forecasting",
-      "checked_at": "2026-08-03T12:36:08.184071+00:00",
+      "checked_at": "2026-08-10T10:25:44.522229+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Sun, 02 Aug 2026 22:01:52 GMT",
+      "last_modified": "Fri, 07 Aug 2026 20:04:52 GMT",
       "content_type": "text/html; charset=UTF-8"
     },
     {
@@ -1659,7 +1469,7 @@
       "url": "https://blueyonder.com",
       "type": "commercial_platform",
       "category": "demand_forecasting",
-      "checked_at": "2026-08-03T12:36:09.204888+00:00",
+      "checked_at": "2026-08-10T10:25:45.686094+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1672,7 +1482,7 @@
       "url": "https://www.relexsolutions.com",
       "type": "commercial_platform",
       "category": "demand_forecasting",
-      "checked_at": "2026-08-03T12:36:09.546776+00:00",
+      "checked_at": "2026-08-10T10:25:46.257674+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1685,7 +1495,7 @@
       "url": "https://www.flexport.com",
       "type": "commercial_platform",
       "category": "cross_border",
-      "checked_at": "2026-08-03T12:36:09.818585+00:00",
+      "checked_at": "2026-08-10T10:25:46.572956+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1698,7 +1508,7 @@
       "url": "https://www.freightamigo.com",
       "type": "commercial_platform",
       "category": "cross_border",
-      "checked_at": "2026-08-03T12:36:10.238919+00:00",
+      "checked_at": "2026-08-10T10:25:46.812377+00:00",
       "reachable": true,
       "status_code": 200,
       "last_modified": "",
@@ -1711,10 +1521,10 @@
       "url": "https://international.post.ch/en/blog/ai-based-tariff-classification-for-e-commerce",
       "type": "industry_report",
       "category": "cross_border",
-      "checked_at": "2026-08-03T12:36:11.638351+00:00",
+      "checked_at": "2026-08-10T10:25:47.687870+00:00",
       "reachable": true,
       "status_code": 200,
-      "last_modified": "Mon, 03 Aug 2026 11:48:53 GMT",
+      "last_modified": "Sun, 09 Aug 2026 11:47:47 GMT",
       "content_type": "text/html; charset=UTF-8"
     }
   ]
