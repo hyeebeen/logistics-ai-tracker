@@ -1,32 +1,32 @@
 # 物流 AI 信息源新鲜度报告
 
-> 生成时间: 2026-08-31 17:00 UTC
-> 总信息源: 115 | ✅ 可达: 104 | ❌ 不可达: 11
+> 生成时间: 2026-09-07 15:00 UTC
+> 总信息源: 115 | ✅ 可达: 105 | ❌ 不可达: 10
 
 ## Tier 1 — 必读（10 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 13971 | 推送: 2026-08-31  |
-| T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 681 | 推送: 2026-08-31  |
-| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 40791 | 推送: 2026-08-30  |
+| T1-001 | Google OR-Tools | open_source_project | ✅ | 200 | ⭐ 14007 | 推送: 2026-09-07  |
+| T1-002 | PyVRP | open_source_project | ✅ | 200 | ⭐ 690 | 推送: 2026-09-04  |
+| T1-003 | LangGraph 1.0 + MCP | open_source_project | ✅ | 200 | ⭐ 41186 | 推送: 2026-09-06  |
 | T1-004 | Gartner Magic Quadrant & Suppl | industry_report | ✅ | 200 |  |
 | T1-005 | NVIDIA Isaac Sim / Omniverse | commercial_platform | ✅ | 200 |  |
 | T1-006 | Qwen3 / DeepSeek-V3 技术报告 | model_report | ✅ | 200 | 论文存在 |
-| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 88544 | 推送: 2026-07-22  |
+| T1-007 | PaddleOCR | open_source_project | ✅ | 200 | ⭐ 89027 | 推送: 2026-07-22  |
 | T1-008 | SupChain-Bench | academic_paper | ✅ | 200 | 论文存在 |
 | T1-009 | Sakana AI CoffeeBench | research_benchmark | ✅ | 200 |  |
-| T1-010 | Darts / GluonTS | open_source_project | ✅ | 200 | ⭐ 9511 | 推送: 2026-08-21  |
+| T1-010 | Darts / GluonTS | open_source_project | ✅ | 200 | ⭐ 9510 | 推送: 2026-09-07  |
 
 ## Tier 2 — 强烈推荐（69 条）
 
 | ID | 名称 | 类型 | 状态 | HTTP | 额外信息 |
 |---|------|------|------|------|----------|
-| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 45907 | 推送: 2026-08-31  |
-| T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2216 | 推送: 2026-08-31  |
-| T2-013 | SUMO / MATSim | open_source_project | ✅ | 200 | ⭐ 4157 | 推送: 2026-08-31  |
-| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 51942 | 推送: 2026-08-31  |
-| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27751 | 推送: 2026-08-31  |
+| T2-011 | Milvus / Qdrant | open_source_project | ✅ | 200 | ⭐ 46014 | 推送: 2026-09-07  |
+| T2-012 | PostGIS / GeoPandas / H3 | open_source_project | ✅ | 200 | ⭐ 2223 | 推送: 2026-09-07  |
+| T2-013 | SUMO / MATSim | open_source_project | ✅ | 200 | ⭐ 4168 | 推送: 2026-09-07  |
+| T2-014 | LlamaIndex / Unstract / MinerU | open_source_project | ✅ | 200 | ⭐ 52055 | 推送: 2026-09-05  |
+| T2-015 | MLflow / Langfuse / DeepEval | open_source_project | ✅ | 200 | ⭐ 27843 | 推送: 2026-09-07  |
 | T2-016 | Kool et al. 'Attention, Learn  | academic_paper | ✅ | 200 | 论文存在 |
 | T2-017 | Vinyals et al. 'Pointer Networ | academic_paper | ✅ | 200 | 论文存在 |
 | T2-018 | 'Neural Combinatorial Optimiza | academic_paper | ✅ | 200 | 论文存在 |
@@ -35,28 +35,28 @@
 | T2-046 | FriendliAI 工业检测VLM博客 | technical_blog | ✅ | 200 |  |
 | T2-047 | VLM综述论文 (arXiv:2501.02189) | academic_paper | ✅ | 200 | 论文存在 |
 | T2-048 | deepsense-ai Agent仿真基准 | open_source_project | ✅ | 200 | ⭐ 10 | 推送: 2026-04-29  |
-| T2-049 | awesome-instruction-datasets | open_source_project | ✅ | 200 | ⭐ 743 | 推送: 2026-06-17  |
+| T2-049 | awesome-instruction-datasets | open_source_project | ✅ | 200 | ⭐ 744 | 推送: 2026-06-17  |
 | T2-050 | LLaMA Factory | open_source_project | ✅ | 200 |  |
 | T2-051 | Transportation Research Part E | academic_journal | ❌ | 403 |  |
 | T2-052 | INFORMS M&SOM | academic_journal | ❌ | 403 |  |
 | T2-053 | IEEE T-ITS | academic_journal | ✅ | 200 |  |
 | T2-054 | EJOR European J Operational Re | academic_journal | ❌ | 403 |  |
 | T2-055 | EURO Association of European O | academic | ✅ | 200 |  |
-| T2-061 | Pyomo | open_source_project | ✅ | 200 | ⭐ 2515 | 推送: 2026-08-26  |
-| T2-062 | HiGHS | open_source_project | ✅ | 200 | ⭐ 1811 | 推送: 2026-08-31  |
-| T2-063 | Timefold Solver | open_source_project | ✅ | 200 | ⭐ 1770 | 推送: 2026-08-31  |
+| T2-061 | Pyomo | open_source_project | ✅ | 200 | ⭐ 2522 | 推送: 2026-09-02  |
+| T2-062 | HiGHS | open_source_project | ✅ | 200 | ⭐ 1825 | 推送: 2026-09-07  |
+| T2-063 | Timefold Solver | open_source_project | ✅ | 200 | ⭐ 1779 | 推送: 2026-09-07  |
 | T2-064 | SCIP Optimization Suite | open_source_project | ❌ | 429 |  |
-| T2-065 | Microsoft MARO | open_source_project | ✅ | 200 | ⭐ 921 | 推送: 2025-04-24  |
+| T2-065 | Microsoft MARO | open_source_project | ✅ | 200 | ⭐ 923 | 推送: 2025-04-24  |
 | T2-066 | OR-Gym | open_source_project | ✅ | 200 | ⭐ 454 | 推送: 2023-10-12  |
-| T2-067 | salabim 离散事件仿真 | open_source_project | ✅ | 200 | ⭐ 403 | 推送: 2026-05-29  |
-| T2-068 | openWMS 开源WMS | open_source_project | ✅ | 200 | ⭐ 728 | 推送: 2026-07-13  |
+| T2-067 | salabim 离散事件仿真 | open_source_project | ✅ | 200 | ⭐ 404 | 推送: 2026-05-29  |
+| T2-068 | openWMS 开源WMS | open_source_project | ✅ | 200 | ⭐ 731 | 推送: 2026-07-13  |
 | T2-069 | LLMs for Supply Chain Manageme | academic_paper | ✅ | 200 | 论文存在 |
 | T2-070 | LNN+XGBoost 供应链牛鞭效应 (arXiv) | academic_paper | ✅ | 200 | 论文存在 |
 | T2-071 | IBM Food Trust Blockchain | commercial_platform | ✅ | 200 |  |
-| T2-072 | Supply-Chain-Blockchain DApp ( | open_source_project | ✅ | 200 | ⭐ 119 | 推送: 2026-06-05  |
+| T2-072 | Supply-Chain-Blockchain DApp ( | open_source_project | ✅ | 200 | ⭐ 120 | 推送: 2026-06-05  |
 | T2-074 | GHG Protocol Scope 3 | standard | ❌ | 403 |  |
 | T2-075 | EcoTransIT World | commercial_platform | ✅ | 200 |  |
-| T2-076 | Smart Freight Centre | industry_association | ❌ | 0 |  |
+| T2-076 | Smart Freight Centre | industry_association | ✅ | 200 |  |
 | T2-077 | Aurora Innovation | commercial_platform | ✅ | 200 |  |
 | T2-078 | Gatik Autonomous Freight | commercial_platform | ✅ | 200 |  |
 | T2-079 | Kodiak Robotics | commercial_platform | ✅ | 200 |  |
@@ -69,8 +69,8 @@
 | T2-086 | Optoro Returns RMS | commercial_platform | ✅ | 200 |  |
 | T2-087 | Loop Returns Platform | commercial_platform | ✅ | 200 |  |
 | T2-088 | Uber Freight | commercial_platform | ✅ | 200 |  |
-| T2-090 | Apache OFBiz | open_source_project | ✅ | 200 | ⭐ 1114 | 推送: 2026-08-31  |
-| T2-091 | ModernWMS (GitHub) | open_source_project | ✅ | 200 | ⭐ 1687 | 推送: 2025-06-22  |
+| T2-090 | Apache OFBiz | open_source_project | ✅ | 200 | ⭐ 1121 | 推送: 2026-09-07  |
+| T2-091 | ModernWMS (GitHub) | open_source_project | ✅ | 200 | ⭐ 1689 | 推送: 2025-06-22  |
 | T2-096 | anyLogistix Supply Chain Twin | commercial_platform | ✅ | 200 |  |
 | T2-097 | SAP Taulia | commercial_platform | ✅ | 200 |  |
 | T2-098 | C2FO | commercial_platform | ✅ | 200 |  |
@@ -101,8 +101,8 @@
 | T3-023 | CFLP（中国物流与采购联合会）报告 | industry_association | ✅ | 200 |  |
 | T3-024 | Project44 Blog — Movement 平台 & | enterprise_blog | ✅ | 200 |  |
 | T3-025 | Locus Robotics / Covariant / S | enterprise_resource | ✅ | 200 |  |
-| T3-026 | Awesome-Chinese-LLM GitHub 仓库 | open_source_project | ✅ | 200 | ⭐ 22748 | 推送: 2026-05-10  |
-| T3-027 | JioNLP / APLT 中文地址解析项目 | open_source_project | ✅ | 200 | ⭐ 3864 | 推送: 2026-07-29  |
+| T3-026 | Awesome-Chinese-LLM GitHub 仓库 | open_source_project | ✅ | 200 | ⭐ 22755 | 推送: 2026-05-10  |
+| T3-027 | JioNLP / APLT 中文地址解析项目 | open_source_project | ✅ | 200 | ⭐ 3866 | 推送: 2026-07-29  |
 | T3-028 | HuggingFace Hub 数据集上传指南 | official_documentation | ✅ | 200 |  |
 | T3-029 | EU AI Act 物流 AI 合规解读 | policy_interpretation | ✅ | 200 |  |
 | T3-030 | MIT Center for Transportation  | academic | ✅ | 200 |  |
@@ -110,7 +110,7 @@
 | T3-032 | 中国物流信息中心 | data_platform | ✅ | 200 |  |
 | T3-033 | 中国物流学会 | academic_organization | ✅ | 200 |  |
 | T3-034 | 《供应链管理》期刊 | academic_journal | ✅ | 200 |  |
-| T3-035 | 《中国管理科学》 | academic_journal | ❌ | 403 |  |
+| T3-035 | 《中国管理科学》 | academic_journal | ❌ | 0 |  |
 | T3-036 | 山东省物流与采购协会 | provincial_association | ✅ | 200 |  |
 | T3-037 | 广东省物流行业协会 | provincial_association | ✅ | 200 |  |
 | T3-038 | 四川省现代物流协会 | provincial_association | ✅ | 200 |  |
@@ -135,7 +135,7 @@
 
 ## ❌ 不可达信息源
 
-- **T3-035 《中国管理科学》** — HTTP Error 403: Forbidden
+- **T3-035 《中国管理科学》** — <urlopen error [Errno -3] Temporary failure in name resolution>
   - URL: https://www.zgglkx.com
 - **T3-044 浙大物流与供应链学术会议** — HTTP Error 403: Forbidden
   - URL: http://www.som.zju.edu.cn/2025/0925/c63484a3085773/page.htm
@@ -149,8 +149,6 @@
   - URL: https://www.scipopt.org/
 - **T2-074 GHG Protocol Scope 3** — HTTP Error 403: Forbidden
   - URL: https://ghgprotocol.org
-- **T2-076 Smart Freight Centre** — <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)>
-  - URL: https://www.smartfreightcentre.org
 - **T2-085 TOS市场 .8B→1.4B** — HTTP Error 404: Not Found
   - URL: https://marketintelo.com/report/terminal-operating-system-software-market
 - **T3-089 数字货运匹配市场 9.62B→36.61B** — HTTP Error 403: Forbidden
